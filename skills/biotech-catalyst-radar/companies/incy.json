@@ -1,0 +1,60 @@
+{
+  "aliases": [
+    "INCY",
+    "Incyte Corporation"
+  ],
+  "business_focus": "以血液腫瘤、實體瘤與發炎性皮膚疾病為主的生物製藥公司。",
+  "cik": "0000879169",
+  "company_id": "sec-0000879169",
+  "company_name": "Incyte Corporation",
+  "company_url": "https://www.incyte.com",
+  "context_notes": [],
+  "focus_areas": [
+    "血液腫瘤",
+    "實體瘤",
+    "骨髓增生性腫瘤",
+    "皮膚免疫"
+  ],
+  "market_cap_rank": 29,
+  "notable_products": [
+    {
+      "indications": [
+        "骨髓纖維化與真性紅血球增多症"
+      ],
+      "name": "Jakafi",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "膽管癌與特定血液腫瘤"
+      ],
+      "name": "Pemazyre",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "化膿性汗腺炎與其他發炎疾病"
+      ],
+      "name": "Povorcitinib",
+      "status": "pipeline"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/incy/company/"
+    }
+  ],
+  "suggested_questions": [
+    "INCY 主要做什麼？",
+    "INCY 有哪些重要產品或管線？",
+    "INCY 最近有什麼事件？"
+  ],
+  "ticker": "INCY",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

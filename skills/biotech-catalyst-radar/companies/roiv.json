@@ -1,0 +1,60 @@
+{
+  "aliases": [
+    "ROIV",
+    "Roivant Sciences Ltd."
+  ],
+  "business_focus": "臨床階段生物製藥平台，聚焦自體免疫與心肺疾病，並透過多個子公司推進候選藥物。",
+  "cik": "0001635088",
+  "company_id": "sec-0001635088",
+  "company_name": "Roivant Sciences Ltd.",
+  "company_url": "https://roivant.com",
+  "context_notes": [],
+  "focus_areas": [
+    "自體免疫",
+    "心肺疾病",
+    "神經肌肉疾病",
+    "藥物平台"
+  ],
+  "market_cap_rank": 27,
+  "notable_products": [
+    {
+      "indications": [
+        "間質性肺病相關肺高壓"
+      ],
+      "name": "Mosliciguat",
+      "status": "pipeline"
+    },
+    {
+      "indications": [
+        "IgG 介導的自體免疫疾病"
+      ],
+      "name": "IMVT-1402",
+      "status": "pipeline"
+    },
+    {
+      "indications": [
+        "甲狀腺眼病"
+      ],
+      "name": "Batoclimab",
+      "status": "pipeline"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/roiv/company/"
+    }
+  ],
+  "suggested_questions": [
+    "ROIV 主要做什麼？",
+    "ROIV 有哪些重要產品或管線？",
+    "ROIV 最近有什麼事件？"
+  ],
+  "ticker": "ROIV",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

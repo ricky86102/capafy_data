@@ -1,0 +1,61 @@
+{
+  "aliases": [
+    "JAZZ",
+    "Jazz Pharmaceuticals plc"
+  ],
+  "business_focus": "聚焦睡眠與神經疾病、癲癇，以及血液癌和實體瘤等腫瘤產品。",
+  "cik": "0001232524",
+  "company_id": "sec-0001232524",
+  "company_name": "Jazz Pharmaceuticals plc",
+  "company_url": "https://www.jazzpharma.com",
+  "context_notes": [],
+  "focus_areas": [
+    "睡眠疾病",
+    "神經",
+    "癲癇",
+    "血液癌",
+    "實體瘤"
+  ],
+  "market_cap_rank": 35,
+  "notable_products": [
+    {
+      "indications": [
+        "嗜睡症與原發性嗜睡"
+      ],
+      "name": "Xywav",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "特定難治型癲癇"
+      ],
+      "name": "Epidiolex",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "小細胞肺癌"
+      ],
+      "name": "Zepzelca",
+      "status": "marketed"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/jazz/company/"
+    }
+  ],
+  "suggested_questions": [
+    "JAZZ 主要做什麼？",
+    "JAZZ 有哪些重要產品或管線？",
+    "JAZZ 最近有什麼事件？"
+  ],
+  "ticker": "JAZZ",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "aliases": [
+    "RPRX",
+    "Royalty Pharma plc"
+  ],
+  "business_focus": "透過購買藥品權利金與提供研發資金參與生物製藥，不是傳統自行研發製造的藥廠。",
+  "cik": "0001802768",
+  "company_id": "sec-0001802768",
+  "company_name": "Royalty Pharma plc",
+  "company_url": "https://www.royaltypharma.com",
+  "context_notes": [],
+  "focus_areas": [
+    "生物製藥權利金",
+    "研發融資",
+    "罕見疾病",
+    "腫瘤",
+    "神經"
+  ],
+  "market_cap_rank": 23,
+  "notable_products": [
+    {
+      "indications": [
+        "約 35 項已上市療法的權利金"
+      ],
+      "name": "Marketed therapy royalty portfolio",
+      "status": "portfolio"
+    },
+    {
+      "indications": [
+        "約 20 項開發中候選藥物"
+      ],
+      "name": "Development-stage royalty portfolio",
+      "status": "portfolio"
+    },
+    {
+      "indications": [
+        "自體免疫疾病"
+      ],
+      "name": "JNJ-4804 funding collaboration",
+      "status": "pipeline"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/rprx/company/"
+    }
+  ],
+  "suggested_questions": [
+    "RPRX 主要做什麼？",
+    "RPRX 有哪些重要產品或管線？",
+    "RPRX 最近有什麼事件？"
+  ],
+  "ticker": "RPRX",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

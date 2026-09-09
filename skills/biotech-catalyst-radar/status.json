@@ -1,0 +1,11 @@
+{
+  "as_of": "2026-09-09",
+  "company_count": 50,
+  "company_index": "skills/biotech-catalyst-radar/companies/index.json",
+  "event_count": 3,
+  "latest": "skills/biotech-catalyst-radar/latest.json",
+  "mode": "fixture",
+  "schema_version": "1.0.0",
+  "slug": "biotech-catalyst-radar",
+  "updated_at": "2026-09-09T08:27:50.116679Z"
+}

@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "TECH",
+    "Bio-Techne Corporation"
+  ],
+  "business_focus": "生命科學工具與診斷供應商，銷售研究試劑、蛋白分析儀器、空間生物學與診斷產品；不是傳統藥物開發商。",
+  "cik": "0000842023",
+  "company_id": "sec-0000842023",
+  "company_name": "Bio-Techne Corporation",
+  "company_url": "https://www.bio-techne.com",
+  "context_notes": [],
+  "focus_areas": [
+    "生命科學試劑",
+    "蛋白分析",
+    "空間生物學",
+    "診斷",
+    "生物製程"
+  ],
+  "market_cap_rank": 45,
+  "notable_products": [
+    {
+      "indications": [
+        "研究試劑與蛋白分析工具"
+      ],
+      "name": "Protein Sciences portfolio",
+      "status": "portfolio"
+    },
+    {
+      "indications": [
+        "診斷分析與組織空間檢測"
+      ],
+      "name": "Diagnostics and Spatial Biology portfolio",
+      "status": "portfolio"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/tech/company/"
+    }
+  ],
+  "suggested_questions": [
+    "TECH 主要做什麼？",
+    "TECH 有哪些重要產品或管線？",
+    "TECH 最近有什麼事件？"
+  ],
+  "ticker": "TECH",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

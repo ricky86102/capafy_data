@@ -1,0 +1,61 @@
+{
+  "aliases": [
+    "ABBV",
+    "AbbVie Inc."
+  ],
+  "business_focus": "以免疫疾病與血液腫瘤藥物為主，另有神經科學、眼科與醫美產品組合。",
+  "cik": "0001551152",
+  "company_id": "sec-0001551152",
+  "company_name": "AbbVie Inc.",
+  "company_url": "https://www.abbvie.com",
+  "context_notes": [],
+  "focus_areas": [
+    "免疫",
+    "血液腫瘤",
+    "神經科學",
+    "眼科",
+    "醫學美容"
+  ],
+  "market_cap_rank": 3,
+  "notable_products": [
+    {
+      "indications": [
+        "自體免疫疾病"
+      ],
+      "name": "Skyrizi",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "發炎性疾病"
+      ],
+      "name": "Rinvoq",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "血液癌症"
+      ],
+      "name": "Imbruvica",
+      "status": "marketed"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/abbv/company/"
+    }
+  ],
+  "suggested_questions": [
+    "ABBV 主要做什麼？",
+    "ABBV 有哪些重要產品或管線？",
+    "ABBV 最近有什麼事件？"
+  ],
+  "ticker": "ABBV",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

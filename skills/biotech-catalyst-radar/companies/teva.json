@@ -1,0 +1,61 @@
+{
+  "aliases": [
+    "TEVA",
+    "Teva Pharmaceutical Industries Limited"
+  ],
+  "business_focus": "以學名藥為主要業務，並經營中樞神經、呼吸與腫瘤等品牌藥及原料藥。",
+  "cik": "0000818686",
+  "company_id": "sec-0000818686",
+  "company_name": "Teva Pharmaceutical Industries Limited",
+  "company_url": "https://www.tevapharm.com",
+  "context_notes": [],
+  "focus_areas": [
+    "學名藥",
+    "中樞神經",
+    "呼吸",
+    "腫瘤",
+    "原料藥"
+  ],
+  "market_cap_rank": 20,
+  "notable_products": [
+    {
+      "indications": [
+        "遲發性運動障礙與亨丁頓舞蹈症"
+      ],
+      "name": "Austedo",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "偏頭痛預防"
+      ],
+      "name": "Ajovy",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "多發性硬化症"
+      ],
+      "name": "Copaxone",
+      "status": "marketed"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/teva/company/"
+    }
+  ],
+  "suggested_questions": [
+    "TEVA 主要做什麼？",
+    "TEVA 有哪些重要產品或管線？",
+    "TEVA 最近有什麼事件？"
+  ],
+  "ticker": "TEVA",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

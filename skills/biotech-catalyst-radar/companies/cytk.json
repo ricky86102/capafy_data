@@ -1,0 +1,59 @@
+{
+  "aliases": [
+    "CYTK",
+    "Cytokinetics, Incorporated"
+  ],
+  "business_focus": "專注肌肉生物學，以心肌肌球蛋白調節劑開發肥厚性心肌病與心衰竭療法。",
+  "cik": "0001061983",
+  "company_id": "sec-0001061983",
+  "company_name": "Cytokinetics, Incorporated",
+  "company_url": "https://www.cytokinetics.com",
+  "context_notes": [],
+  "focus_areas": [
+    "肥厚性心肌病",
+    "心衰竭",
+    "肌肉生物學"
+  ],
+  "market_cap_rank": 47,
+  "notable_products": [
+    {
+      "indications": [
+        "症狀性阻塞型肥厚性心肌病"
+      ],
+      "name": "Myqorzo",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "肥厚性心肌病"
+      ],
+      "name": "Aficamten",
+      "status": "pipeline"
+    },
+    {
+      "indications": [
+        "射出分率嚴重降低的心衰竭"
+      ],
+      "name": "Omecamtiv mecarbil",
+      "status": "pipeline"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/cytk/company/"
+    }
+  ],
+  "suggested_questions": [
+    "CYTK 主要做什麼？",
+    "CYTK 有哪些重要產品或管線？",
+    "CYTK 最近有什麼事件？"
+  ],
+  "ticker": "CYTK",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

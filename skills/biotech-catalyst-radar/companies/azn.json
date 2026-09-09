@@ -1,0 +1,61 @@
+{
+  "aliases": [
+    "AZN",
+    "AstraZeneca PLC"
+  ],
+  "business_focus": "研發處方藥，核心領域是腫瘤、心血管腎臟代謝、呼吸免疫、疫苗與罕見疾病。",
+  "cik": "0000901832",
+  "company_id": "sec-0000901832",
+  "company_name": "AstraZeneca PLC",
+  "company_url": "https://www.astrazeneca.com",
+  "context_notes": [],
+  "focus_areas": [
+    "腫瘤",
+    "心血管腎臟代謝",
+    "呼吸免疫",
+    "疫苗",
+    "罕見疾病"
+  ],
+  "market_cap_rank": 6,
+  "notable_products": [
+    {
+      "indications": [
+        "肺癌"
+      ],
+      "name": "Tagrisso",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "糖尿病與心腎疾病"
+      ],
+      "name": "Farxiga/Forxiga",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "罕見疾病"
+      ],
+      "name": "Ultomiris",
+      "status": "marketed"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/azn/company/"
+    }
+  ],
+  "suggested_questions": [
+    "AZN 主要做什麼？",
+    "AZN 有哪些重要產品或管線？",
+    "AZN 最近有什麼事件？"
+  ],
+  "ticker": "AZN",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "SMMT",
+    "Summit Therapeutics Inc."
+  ],
+  "business_focus": "臨床階段腫瘤公司，核心資產是同時作用於 PD-1 與 VEGF 的雙特異性抗體 ivonescimab。",
+  "cik": "0001599298",
+  "company_id": "sec-0001599298",
+  "company_name": "Summit Therapeutics Inc.",
+  "company_url": "https://www.smmttx.com",
+  "context_notes": [],
+  "focus_areas": [
+    "肺癌",
+    "大腸直腸癌",
+    "腫瘤免疫",
+    "抗血管新生"
+  ],
+  "market_cap_rank": 38,
+  "notable_products": [
+    {
+      "indications": [
+        "非小細胞肺癌與大腸直腸癌"
+      ],
+      "name": "Ivonescimab",
+      "status": "pipeline"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/smmt/company/"
+    }
+  ],
+  "suggested_questions": [
+    "SMMT 主要做什麼？",
+    "SMMT 有哪些重要產品或管線？",
+    "SMMT 最近有什麼事件？"
+  ],
+  "ticker": "SMMT",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

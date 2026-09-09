@@ -1,0 +1,59 @@
+{
+  "aliases": [
+    "ARGX",
+    "argenx SE"
+  ],
+  "business_focus": "專注以 FcRn 等抗體機制治療重症自體免疫疾病。",
+  "cik": "0001697862",
+  "company_id": "sec-0001697862",
+  "company_name": "argenx SE",
+  "company_url": "https://argenx.com",
+  "context_notes": [],
+  "focus_areas": [
+    "自體免疫",
+    "神經肌肉疾病",
+    "血液免疫"
+  ],
+  "market_cap_rank": 16,
+  "notable_products": [
+    {
+      "indications": [
+        "全身型重症肌無力與免疫性血小板低下"
+      ],
+      "name": "Vyvgart",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "重症肌無力與慢性發炎性脫髓鞘性多發神經病"
+      ],
+      "name": "Vyvgart Hytrulo",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "多灶性運動神經病與其他免疫疾病"
+      ],
+      "name": "Empasiprubart",
+      "status": "pipeline"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/argx/company/"
+    }
+  ],
+  "suggested_questions": [
+    "ARGX 主要做什麼？",
+    "ARGX 有哪些重要產品或管線？",
+    "ARGX 最近有什麼事件？"
+  ],
+  "ticker": "ARGX",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

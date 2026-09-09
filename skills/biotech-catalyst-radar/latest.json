@@ -1,0 +1,128 @@
+{
+  "as_of": "2026-09-09",
+  "events": [
+    {
+      "company_name": "Tenax Therapeutics, Inc.",
+      "confidence": "high",
+      "data_origin": "fixture",
+      "drug_name": "TNX-103",
+      "event_id": "b9af07af75aa36748175d4975a997b6c25ba90a80bb6ea07ab2755ac878097cc",
+      "event_type": "clinical_readout",
+      "fact_summary": "The LEVEL study did not meet its primary endpoint.",
+      "facts": [
+        {
+          "field": "primary_endpoint",
+          "source_quote": "The primary endpoint was not met.",
+          "value": "not_met"
+        }
+      ],
+      "published_at": "2026-08-10T11:00:00Z",
+      "retrieved_at": "2026-09-09T08:27:50.116679Z",
+      "review_status": "approved",
+      "source_url": "https://investors.tenaxthera.com/news-releases/news-release-details/tenax-therapeutics-announces-topline-results-phase-3-level",
+      "stage": "Phase 3",
+      "ticker": "TENX",
+      "trial_id": "NCT05983250",
+      "unknowns": [
+        "The future regulatory path is not established by this fixture."
+      ]
+    },
+    {
+      "company_name": "Iovance Biotherapeutics, Inc.",
+      "confidence": "high",
+      "data_origin": "fixture",
+      "drug_name": "LN-145",
+      "event_id": "33ec92fec793b2259017e893c6bfaf0409dbbbdd35ce65b5970d2518df30faf0",
+      "event_type": "clinical_trial_status",
+      "fact_summary": "ClinicalTrials.gov lists NCT03108495 as terminated.",
+      "facts": [
+        {
+          "field": "overall_status",
+          "source_quote": "The registry status is Terminated.",
+          "value": "TERMINATED"
+        }
+      ],
+      "published_at": "2026-07-01T00:00:00Z",
+      "retrieved_at": "2026-09-09T08:27:50.116679Z",
+      "review_status": "approved",
+      "source_url": "https://clinicaltrials.gov/study/NCT03108495",
+      "stage": "Phase 2",
+      "ticker": "IOVA",
+      "trial_id": "NCT03108495",
+      "unknowns": [
+        "A terminated registry status alone does not establish commercial or price impact."
+      ]
+    },
+    {
+      "company_name": "PDS Biotechnology Corporation",
+      "confidence": "high",
+      "data_origin": "fixture",
+      "drug_name": null,
+      "event_id": "71d5a1668e5587d67753ebae16dd621ac674f9d7b570ae753e70c0c35a7b8010",
+      "event_type": "financing",
+      "fact_summary": "PDS Biotechnology filed an amendment to a senior secured promissory note.",
+      "facts": [
+        {
+          "field": "filing_type",
+          "source_quote": "Amendment No. 1 to Senior Secured Promissory Note, dated August 31, 2026.",
+          "value": "promissory_note_amendment"
+        }
+      ],
+      "published_at": "2026-08-31T20:00:00Z",
+      "retrieved_at": "2026-09-09T08:27:50.116679Z",
+      "review_status": "approved",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1472091/000114036126035809/ef20081442_8k.htm",
+      "stage": null,
+      "ticker": "PDSB",
+      "trial_id": null,
+      "unknowns": [
+        "This fixture does not calculate cash runway or dilution."
+      ]
+    }
+  ],
+  "generated_at": "2026-09-09T08:27:50.116679Z",
+  "mode": "fixture",
+  "model": {
+    "execution": "deterministic-schema-pipeline",
+    "fallback": "claude-5",
+    "primary": "gpt-5.6",
+    "role": "backend_research"
+  },
+  "run_id": "1873cf41a7bcd81d",
+  "schema_version": "1.0.0",
+  "source_status": [
+    {
+      "item": "iova_trial_termination.json",
+      "retrieved_at": "2026-09-09T08:27:50.116679Z",
+      "source": "fixture",
+      "status": "ok"
+    },
+    {
+      "item": "pdsb_financing.json",
+      "retrieved_at": "2026-09-09T08:27:50.116679Z",
+      "source": "fixture",
+      "status": "ok"
+    },
+    {
+      "item": "tenx_clinical_readout.json",
+      "retrieved_at": "2026-09-09T08:27:50.116679Z",
+      "source": "fixture",
+      "status": "ok"
+    }
+  ],
+  "summary": {
+    "by_type": {
+      "clinical_readout": 1,
+      "clinical_trial_status": 1,
+      "financing": 1
+    },
+    "event_count": 3,
+    "review_count": 0,
+    "status": "ok",
+    "tickers": [
+      "IOVA",
+      "PDSB",
+      "TENX"
+    ]
+  }
+}

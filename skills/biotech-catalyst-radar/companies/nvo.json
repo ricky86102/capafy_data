@@ -1,0 +1,61 @@
+{
+  "aliases": [
+    "NVO",
+    "Novo Nordisk A/S"
+  ],
+  "business_focus": "主要經營糖尿病與肥胖治療，並涵蓋罕見血液及內分泌疾病。",
+  "cik": "0000353278",
+  "company_id": "sec-0000353278",
+  "company_name": "Novo Nordisk A/S",
+  "company_url": "https://www.novonordisk.com",
+  "context_notes": [],
+  "focus_areas": [
+    "糖尿病",
+    "肥胖",
+    "心血管",
+    "罕見血液疾病",
+    "罕見內分泌疾病"
+  ],
+  "market_cap_rank": 8,
+  "notable_products": [
+    {
+      "indications": [
+        "體重管理"
+      ],
+      "name": "Wegovy",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "糖尿病"
+      ],
+      "name": "Diabetes care portfolio",
+      "status": "portfolio"
+    },
+    {
+      "indications": [
+        "罕見血液與內分泌疾病"
+      ],
+      "name": "Rare Disease portfolio",
+      "status": "portfolio"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/nvo/company/"
+    }
+  ],
+  "suggested_questions": [
+    "NVO 主要做什麼？",
+    "NVO 有哪些重要產品或管線？",
+    "NVO 最近有什麼事件？"
+  ],
+  "ticker": "NVO",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

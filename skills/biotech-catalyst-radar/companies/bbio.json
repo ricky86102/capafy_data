@@ -1,0 +1,60 @@
+{
+  "aliases": [
+    "BBIO",
+    "BridgeBio Pharma, Inc."
+  ],
+  "business_focus": "專注遺傳疾病，以小分子、酵素替代與基因治療開發罕見病藥物。",
+  "cik": "0001743881",
+  "company_id": "sec-0001743881",
+  "company_name": "BridgeBio Pharma, Inc.",
+  "company_url": "https://bridgebio.com",
+  "context_notes": [],
+  "focus_areas": [
+    "遺傳疾病",
+    "ATTR 心肌病",
+    "骨骼發育疾病",
+    "基因治療"
+  ],
+  "market_cap_rank": 36,
+  "notable_products": [
+    {
+      "indications": [
+        "ATTR 心肌病"
+      ],
+      "name": "Attruby",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "鉬輔因子缺乏症"
+      ],
+      "name": "Nulibry",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "軟骨發育不全與低軟骨發育不全"
+      ],
+      "name": "Infigratinib",
+      "status": "pipeline"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/bbio/company/"
+    }
+  ],
+  "suggested_questions": [
+    "BBIO 主要做什麼？",
+    "BBIO 有哪些重要產品或管線？",
+    "BBIO 最近有什麼事件？"
+  ],
+  "ticker": "BBIO",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

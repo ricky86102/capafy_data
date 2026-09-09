@@ -1,0 +1,60 @@
+{
+  "aliases": [
+    "INSM",
+    "Insmed Incorporated"
+  ],
+  "business_focus": "開發嚴重與罕見疾病療法，主軸為罕見肺部感染、支氣管擴張與肺高壓。",
+  "cik": "0001104506",
+  "company_id": "sec-0001104506",
+  "company_name": "Insmed Incorporated",
+  "company_url": "https://www.insmed.com",
+  "context_notes": [],
+  "focus_areas": [
+    "罕見肺部感染",
+    "支氣管擴張",
+    "肺高壓",
+    "基因治療"
+  ],
+  "market_cap_rank": 28,
+  "notable_products": [
+    {
+      "indications": [
+        "難治型非結核分枝桿菌肺部感染"
+      ],
+      "name": "Arikayce",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "支氣管擴張症"
+      ],
+      "name": "Brensocatib",
+      "status": "pipeline"
+    },
+    {
+      "indications": [
+        "間質性肺病相關肺高壓"
+      ],
+      "name": "Treprostinil palmitil inhalation powder",
+      "status": "pipeline"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/insm/company/"
+    }
+  ],
+  "suggested_questions": [
+    "INSM 主要做什麼？",
+    "INSM 有哪些重要產品或管線？",
+    "INSM 最近有什麼事件？"
+  ],
+  "ticker": "INSM",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

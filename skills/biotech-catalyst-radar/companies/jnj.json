@@ -1,0 +1,64 @@
+{
+  "aliases": [
+    "JNJ",
+    "Johnson & Johnson"
+  ],
+  "business_focus": "同時經營創新藥與醫療科技；藥品重點涵蓋腫瘤、免疫、神經、肺高壓與心血管代謝。",
+  "cik": "0000200406",
+  "company_id": "sec-0000200406",
+  "company_name": "Johnson & Johnson",
+  "company_url": "https://www.jnj.com",
+  "context_notes": [],
+  "focus_areas": [
+    "腫瘤",
+    "免疫",
+    "神經",
+    "肺高壓",
+    "心血管代謝",
+    "醫療科技"
+  ],
+  "market_cap_rank": 2,
+  "notable_products": [
+    {
+      "indications": [
+        "腫瘤",
+        "免疫",
+        "神經與其他處方藥"
+      ],
+      "name": "Innovative Medicine portfolio",
+      "status": "portfolio"
+    },
+    {
+      "indications": [
+        "隱形眼鏡與視力照護"
+      ],
+      "name": "ACUVUE",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "白內障與屈光手術用人工水晶體"
+      ],
+      "name": "TECNIS",
+      "status": "marketed"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/jnj/company/"
+    }
+  ],
+  "suggested_questions": [
+    "JNJ 主要做什麼？",
+    "JNJ 有哪些重要產品或管線？",
+    "JNJ 最近有什麼事件？"
+  ],
+  "ticker": "JNJ",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

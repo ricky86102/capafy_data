@@ -1,0 +1,61 @@
+{
+  "aliases": [
+    "HLN",
+    "Haleon plc"
+  ],
+  "business_focus": "消費保健公司，主力是口腔保健、維生素補充品、止痛、呼吸與消化道非處方產品。",
+  "cik": "0001900304",
+  "company_id": "sec-0001900304",
+  "company_name": "Haleon plc",
+  "company_url": "https://www.haleon.com",
+  "context_notes": [],
+  "focus_areas": [
+    "口腔保健",
+    "維生素與補充品",
+    "止痛",
+    "呼吸道照護",
+    "消化保健"
+  ],
+  "market_cap_rank": 21,
+  "notable_products": [
+    {
+      "indications": [
+        "口腔與敏感性牙齒照護"
+      ],
+      "name": "Sensodyne",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "止痛"
+      ],
+      "name": "Advil",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "維生素與營養補充"
+      ],
+      "name": "Centrum",
+      "status": "marketed"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/hln/company/"
+    }
+  ],
+  "suggested_questions": [
+    "HLN 主要做什麼？",
+    "HLN 有哪些重要產品或管線？",
+    "HLN 最近有什麼事件？"
+  ],
+  "ticker": "HLN",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

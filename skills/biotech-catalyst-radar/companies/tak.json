@@ -1,0 +1,62 @@
+{
+  "aliases": [
+    "TAK",
+    "Takeda Pharmaceutical Company Limited"
+  ],
+  "business_focus": "全球綜合藥廠，核心領域包括腸胃、罕見疾病、血漿製品、腫瘤、疫苗與神經科學。",
+  "cik": "0001395064",
+  "company_id": "sec-0001395064",
+  "company_name": "Takeda Pharmaceutical Company Limited",
+  "company_url": "https://www.takeda.com",
+  "context_notes": [],
+  "focus_areas": [
+    "腸胃",
+    "罕見疾病",
+    "血漿製品",
+    "腫瘤",
+    "疫苗",
+    "神經"
+  ],
+  "market_cap_rank": 17,
+  "notable_products": [
+    {
+      "indications": [
+        "發炎性腸道疾病"
+      ],
+      "name": "Entyvio",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "遺傳性血管性水腫"
+      ],
+      "name": "Takhzyro",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "淋巴癌"
+      ],
+      "name": "Adcetris",
+      "status": "marketed"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/tak/company/"
+    }
+  ],
+  "suggested_questions": [
+    "TAK 主要做什麼？",
+    "TAK 有哪些重要產品或管線？",
+    "TAK 最近有什麼事件？"
+  ],
+  "ticker": "TAK",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

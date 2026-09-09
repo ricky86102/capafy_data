@@ -1,0 +1,60 @@
+{
+  "aliases": [
+    "RVMD",
+    "Revolution Medicines, Inc."
+  ],
+  "business_focus": "臨床階段精準腫瘤公司，專攻 RAS 驅動癌症與 RAS(ON) 抑制劑。",
+  "cik": "0001628171",
+  "company_id": "sec-0001628171",
+  "company_name": "Revolution Medicines, Inc.",
+  "company_url": "https://www.revmed.com",
+  "context_notes": [],
+  "focus_areas": [
+    "精準腫瘤",
+    "RAS 驅動癌症",
+    "胰臟癌",
+    "實體瘤"
+  ],
+  "market_cap_rank": 19,
+  "notable_products": [
+    {
+      "indications": [
+        "RAS 驅動實體瘤"
+      ],
+      "name": "Daraxonrasib (RMC-6236)",
+      "status": "pipeline"
+    },
+    {
+      "indications": [
+        "KRAS G12C 實體瘤"
+      ],
+      "name": "Elironrasib (RMC-6291)",
+      "status": "pipeline"
+    },
+    {
+      "indications": [
+        "KRAS G12D 腫瘤"
+      ],
+      "name": "Zoldonrasib (RMC-9805)",
+      "status": "pipeline"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/rvmd/company/"
+    }
+  ],
+  "suggested_questions": [
+    "RVMD 主要做什麼？",
+    "RVMD 有哪些重要產品或管線？",
+    "RVMD 最近有什麼事件？"
+  ],
+  "ticker": "RVMD",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

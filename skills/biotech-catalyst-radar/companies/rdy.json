@@ -1,0 +1,61 @@
+{
+  "aliases": [
+    "RDY",
+    "Dr. Reddy's Laboratories Limited"
+  ],
+  "business_focus": "綜合製藥公司，主力為全球學名藥與原料藥，另有生物製劑及腫瘤、發炎等差異化管線。",
+  "cik": "0001135951",
+  "company_id": "sec-0001135951",
+  "company_name": "Dr. Reddy's Laboratories Limited",
+  "company_url": "https://www.drreddys.com",
+  "context_notes": [],
+  "focus_areas": [
+    "學名藥",
+    "原料藥",
+    "生物製劑",
+    "腫瘤",
+    "發炎"
+  ],
+  "market_cap_rank": 50,
+  "notable_products": [
+    {
+      "indications": [
+        "多治療領域的處方與非處方學名藥"
+      ],
+      "name": "Global Generics portfolio",
+      "status": "portfolio"
+    },
+    {
+      "indications": [
+        "原料藥與製藥服務"
+      ],
+      "name": "Pharmaceutical Services and Active Ingredients",
+      "status": "portfolio"
+    },
+    {
+      "indications": [
+        "腫瘤與發炎疾病"
+      ],
+      "name": "Differentiated formulations pipeline",
+      "status": "pipeline"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/rdy/company/"
+    }
+  ],
+  "suggested_questions": [
+    "RDY 主要做什麼？",
+    "RDY 有哪些重要產品或管線？",
+    "RDY 最近有什麼事件？"
+  ],
+  "ticker": "RDY",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "aliases": [
+    "ONC",
+    "BeOne Medicines AG"
+  ],
+  "business_focus": "專注腫瘤藥物，兼具商業化血液癌與實體瘤產品及廣泛臨床管線。",
+  "cik": "0001651308",
+  "company_id": "sec-0001651308",
+  "company_name": "BeOne Medicines AG",
+  "company_url": "https://beonemedicines.com",
+  "context_notes": [],
+  "focus_areas": [
+    "血液癌",
+    "實體瘤",
+    "腫瘤免疫",
+    "標靶治療"
+  ],
+  "market_cap_rank": 22,
+  "notable_products": [
+    {
+      "indications": [
+        "多種血液癌"
+      ],
+      "name": "Brukinsa",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "實體瘤與血液癌"
+      ],
+      "name": "Tevimbra",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "血液癌"
+      ],
+      "name": "Sonrotoclax (BGB-11417)",
+      "status": "pipeline"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/onc/company/"
+    }
+  ],
+  "suggested_questions": [
+    "ONC 主要做什麼？",
+    "ONC 有哪些重要產品或管線？",
+    "ONC 最近有什麼事件？"
+  ],
+  "ticker": "ONC",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

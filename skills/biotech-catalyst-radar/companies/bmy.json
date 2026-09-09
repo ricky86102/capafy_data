@@ -1,0 +1,61 @@
+{
+  "aliases": [
+    "BMY",
+    "Bristol-Myers Squibb Company"
+  ],
+  "business_focus": "主要經營腫瘤、血液、免疫、心血管與神經疾病藥物。",
+  "cik": "0000014272",
+  "company_id": "sec-0000014272",
+  "company_name": "Bristol-Myers Squibb Company",
+  "company_url": "https://www.bms.com",
+  "context_notes": [],
+  "focus_areas": [
+    "腫瘤",
+    "血液疾病",
+    "免疫",
+    "心血管",
+    "神經"
+  ],
+  "market_cap_rank": 12,
+  "notable_products": [
+    {
+      "indications": [
+        "多種癌症"
+      ],
+      "name": "Opdivo",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "中風與血栓風險降低"
+      ],
+      "name": "Eliquis",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "阻塞型肥厚性心肌病"
+      ],
+      "name": "Camzyos",
+      "status": "marketed"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/bmy/company/"
+    }
+  ],
+  "suggested_questions": [
+    "BMY 主要做什麼？",
+    "BMY 有哪些重要產品或管線？",
+    "BMY 最近有什麼事件？"
+  ],
+  "ticker": "BMY",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

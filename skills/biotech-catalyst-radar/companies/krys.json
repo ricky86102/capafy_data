@@ -1,0 +1,60 @@
+{
+  "aliases": [
+    "KRYS",
+    "Krystal Biotech, Inc."
+  ],
+  "business_focus": "以基因治療平台開發罕見皮膚、眼科與肺部疾病療法。",
+  "cik": "0001711279",
+  "company_id": "sec-0001711279",
+  "company_name": "Krystal Biotech, Inc.",
+  "company_url": "https://www.krystalbio.com",
+  "context_notes": [],
+  "focus_areas": [
+    "基因治療",
+    "罕見皮膚病",
+    "眼科",
+    "囊性纖維化"
+  ],
+  "market_cap_rank": 48,
+  "notable_products": [
+    {
+      "indications": [
+        "營養不良型表皮分解性水皰症"
+      ],
+      "name": "Vyjuvek",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "營養不良型表皮分解性水皰症眼部併發症"
+      ],
+      "name": "KB803",
+      "status": "pipeline"
+    },
+    {
+      "indications": [
+        "囊性纖維化"
+      ],
+      "name": "KB407",
+      "status": "pipeline"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/krys/company/"
+    }
+  ],
+  "suggested_questions": [
+    "KRYS 主要做什麼？",
+    "KRYS 有哪些重要產品或管線？",
+    "KRYS 最近有什麼事件？"
+  ],
+  "ticker": "KRYS",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

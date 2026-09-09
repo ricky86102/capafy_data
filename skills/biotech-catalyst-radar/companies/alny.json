@@ -1,0 +1,61 @@
+{
+  "aliases": [
+    "ALNY",
+    "Alnylam Pharmaceuticals, Inc."
+  ],
+  "business_focus": "RNA 干擾療法先驅，產品與管線聚焦澱粉樣變性、血液、代謝、肝臟及罕見疾病。",
+  "cik": "0001178670",
+  "company_id": "sec-0001178670",
+  "company_name": "Alnylam Pharmaceuticals, Inc.",
+  "company_url": "https://www.alnylam.com",
+  "context_notes": [],
+  "focus_areas": [
+    "RNAi",
+    "澱粉樣變性",
+    "血液疾病",
+    "代謝疾病",
+    "罕見疾病"
+  ],
+  "market_cap_rank": 24,
+  "notable_products": [
+    {
+      "indications": [
+        "ATTR 與遺傳性 ATTR 澱粉樣變性"
+      ],
+      "name": "Amvuttra",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "急性肝性紫質症"
+      ],
+      "name": "Givlaari",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "高血壓"
+      ],
+      "name": "Zilebesiran",
+      "status": "pipeline"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/alny/company/"
+    }
+  ],
+  "suggested_questions": [
+    "ALNY 主要做什麼？",
+    "ALNY 有哪些重要產品或管線？",
+    "ALNY 最近有什麼事件？"
+  ],
+  "ticker": "ALNY",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

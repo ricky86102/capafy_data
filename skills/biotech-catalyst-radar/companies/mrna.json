@@ -1,0 +1,60 @@
+{
+  "aliases": [
+    "MRNA",
+    "Moderna, Inc."
+  ],
+  "business_focus": "以 mRNA 平台開發呼吸道疫苗，並延伸至癌症免疫治療、潛伏病毒與罕見疾病。",
+  "cik": "0001682852",
+  "company_id": "sec-0001682852",
+  "company_name": "Moderna, Inc.",
+  "company_url": "https://www.modernatx.com",
+  "context_notes": [],
+  "focus_areas": [
+    "呼吸道疫苗",
+    "癌症免疫治療",
+    "潛伏病毒",
+    "罕見疾病"
+  ],
+  "market_cap_rank": 18,
+  "notable_products": [
+    {
+      "indications": [
+        "COVID-19"
+      ],
+      "name": "Spikevax",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "RSV"
+      ],
+      "name": "mRESVIA",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "個人化癌症治療"
+      ],
+      "name": "Intismeran autogene",
+      "status": "pipeline"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/mrna/company/"
+    }
+  ],
+  "suggested_questions": [
+    "MRNA 主要做什麼？",
+    "MRNA 有哪些重要產品或管線？",
+    "MRNA 最近有什麼事件？"
+  ],
+  "ticker": "MRNA",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}

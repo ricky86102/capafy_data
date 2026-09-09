@@ -1,0 +1,61 @@
+{
+  "aliases": [
+    "NVS",
+    "Novartis AG"
+  ],
+  "business_focus": "聚焦心血管腎臟代謝、免疫、神經、腫瘤與血液疾病的創新藥。",
+  "cik": "0001114448",
+  "company_id": "sec-0001114448",
+  "company_name": "Novartis AG",
+  "company_url": "https://www.novartis.com",
+  "context_notes": [],
+  "focus_areas": [
+    "心血管腎臟代謝",
+    "免疫",
+    "神經",
+    "腫瘤",
+    "血液疾病"
+  ],
+  "market_cap_rank": 5,
+  "notable_products": [
+    {
+      "indications": [
+        "慢性心衰竭"
+      ],
+      "name": "Entresto",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "乾癬與關節炎"
+      ],
+      "name": "Cosentyx",
+      "status": "marketed"
+    },
+    {
+      "indications": [
+        "轉移性攝護腺癌"
+      ],
+      "name": "Pluvicto",
+      "status": "marketed"
+    }
+  ],
+  "profile_as_of": "2026-09-09",
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "publisher": "StockAnalysis",
+      "retrieved_on": "2026-09-09",
+      "url": "https://stockanalysis.com/stocks/nvs/company/"
+    }
+  ],
+  "suggested_questions": [
+    "NVS 主要做什麼？",
+    "NVS 有哪些重要產品或管線？",
+    "NVS 最近有什麼事件？"
+  ],
+  "ticker": "NVS",
+  "uncertainties": [
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+  ]
+}
