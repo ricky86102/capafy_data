@@ -1,7 +1,10 @@
 {
   "aliases": [
     "RDY",
-    "Dr. Reddy's Laboratories Limited"
+    "Dr. Reddy's Laboratories Limited",
+    "Dr. Reddy's",
+    "Dr Reddy's",
+    "瑞迪博士實驗室"
   ],
   "business_focus": "綜合製藥公司，主力為全球學名藥與原料藥，另有生物製劑及腫瘤、發炎等差異化管線。",
   "cik": "0001135951",
@@ -40,12 +43,12 @@
       "status": "pipeline"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/rdy/company/"
     }
   ],

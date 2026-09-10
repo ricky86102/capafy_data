@@ -1,7 +1,9 @@
 {
   "aliases": [
     "ROIV",
-    "Roivant Sciences Ltd."
+    "Roivant Sciences Ltd.",
+    "Roivant",
+    "瑞萬特"
   ],
   "business_focus": "臨床階段生物製藥平台，聚焦自體免疫與心肺疾病，並透過多個子公司推進候選藥物。",
   "cik": "0001635088",
@@ -39,12 +41,12 @@
       "status": "pipeline"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/roiv/company/"
     }
   ],

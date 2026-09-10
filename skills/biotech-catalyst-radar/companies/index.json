@@ -3,7 +3,10 @@
     {
       "aliases": [
         "LLY",
-        "Eli Lilly and Company"
+        "Eli Lilly and Company",
+        "Eli Lilly",
+        "Lilly",
+        "禮來"
       ],
       "business_focus": "以糖尿病、肥胖等心代謝疾病為核心，並布局腫瘤、免疫與神經疾病藥物。",
       "company_id": "sec-0000059478",
@@ -20,7 +23,10 @@
     {
       "aliases": [
         "JNJ",
-        "Johnson & Johnson"
+        "Johnson & Johnson",
+        "J&J",
+        "Johnson and Johnson",
+        "嬌生"
       ],
       "business_focus": "同時經營創新藥與醫療科技；藥品重點涵蓋腫瘤、免疫、神經、肺高壓與心血管代謝。",
       "company_id": "sec-0000200406",
@@ -37,7 +43,9 @@
     {
       "aliases": [
         "ABBV",
-        "AbbVie Inc."
+        "AbbVie Inc.",
+        "AbbVie",
+        "艾伯維"
       ],
       "business_focus": "以免疫疾病與血液腫瘤藥物為主，另有神經科學、眼科與醫美產品組合。",
       "company_id": "sec-0001551152",
@@ -54,7 +62,11 @@
     {
       "aliases": [
         "MRK",
-        "Merck & Co., Inc."
+        "Merck & Co., Inc.",
+        "Merck",
+        "MSD",
+        "默沙東",
+        "默克"
       ],
       "business_focus": "以腫瘤藥物與疫苗為主要支柱，另涵蓋心肺、感染症與動物保健。",
       "company_id": "sec-0000310158",
@@ -71,7 +83,9 @@
     {
       "aliases": [
         "NVS",
-        "Novartis AG"
+        "Novartis AG",
+        "Novartis",
+        "諾華"
       ],
       "business_focus": "聚焦心血管腎臟代謝、免疫、神經、腫瘤與血液疾病的創新藥。",
       "company_id": "sec-0001114448",
@@ -88,7 +102,9 @@
     {
       "aliases": [
         "AZN",
-        "AstraZeneca PLC"
+        "AstraZeneca PLC",
+        "AstraZeneca",
+        "阿斯特捷利康"
       ],
       "business_focus": "研發處方藥，核心領域是腫瘤、心血管腎臟代謝、呼吸免疫、疫苗與罕見疾病。",
       "company_id": "sec-0000901832",
@@ -105,7 +121,9 @@
     {
       "aliases": [
         "AMGN",
-        "Amgen Inc."
+        "Amgen Inc.",
+        "Amgen",
+        "安進"
       ],
       "business_focus": "大型生物製藥公司，產品跨免疫、骨質疏鬆、心血管、腫瘤與罕見疾病。",
       "company_id": "sec-0000318154",
@@ -122,7 +140,9 @@
     {
       "aliases": [
         "NVO",
-        "Novo Nordisk A/S"
+        "Novo Nordisk A/S",
+        "Novo Nordisk",
+        "諾和諾德"
       ],
       "business_focus": "主要經營糖尿病與肥胖治療，並涵蓋罕見血液及內分泌疾病。",
       "company_id": "sec-0000353278",
@@ -139,7 +159,9 @@
     {
       "aliases": [
         "GILD",
-        "Gilead Sciences, Inc."
+        "Gilead Sciences, Inc.",
+        "Gilead",
+        "吉利德"
       ],
       "business_focus": "以 HIV 與病毒性肝炎抗病毒藥為根基，並擴展至細胞治療與腫瘤藥物。",
       "company_id": "sec-0000882095",
@@ -176,7 +198,10 @@
     {
       "aliases": [
         "VRTX",
-        "Vertex Pharmaceuticals Incorporated"
+        "Vertex Pharmaceuticals Incorporated",
+        "Vertex",
+        "Vertex Pharmaceuticals",
+        "福泰製藥"
       ],
       "business_focus": "以囊性纖維化專科藥物為核心，並拓展鐮刀型紅血球疾病、地中海型貧血、急性疼痛與腎臟疾病。",
       "company_id": "sec-0000875320",
@@ -193,7 +218,10 @@
     {
       "aliases": [
         "BMY",
-        "Bristol-Myers Squibb Company"
+        "Bristol-Myers Squibb Company",
+        "Bristol Myers Squibb",
+        "Bristol-Myers Squibb",
+        "百時美施貴寶"
       ],
       "business_focus": "主要經營腫瘤、血液、免疫、心血管與神經疾病藥物。",
       "company_id": "sec-0000014272",
@@ -210,7 +238,8 @@
     {
       "aliases": [
         "SNY",
-        "Sanofi"
+        "Sanofi",
+        "賽諾菲"
       ],
       "business_focus": "聚焦免疫發炎、罕見疾病、神經、腫瘤與多類疫苗。",
       "company_id": "sec-0001121404",
@@ -227,7 +256,9 @@
     {
       "aliases": [
         "GSK",
-        "GSK plc"
+        "GSK plc",
+        "GlaxoSmithKline",
+        "葛蘭素史克"
       ],
       "business_focus": "以疫苗、專科藥與一般藥品為三大支柱，涵蓋呼吸、免疫、感染症與腫瘤。",
       "company_id": "sec-0001131399",
@@ -244,7 +275,9 @@
     {
       "aliases": [
         "REGN",
-        "Regeneron Pharmaceuticals, Inc."
+        "Regeneron Pharmaceuticals, Inc.",
+        "Regeneron",
+        "再生元"
       ],
       "business_focus": "以抗體藥物為主，重點在眼科、過敏發炎、腫瘤、心血管代謝與罕見疾病。",
       "company_id": "sec-0000872589",
@@ -261,7 +294,9 @@
     {
       "aliases": [
         "ARGX",
-        "argenx SE"
+        "argenx SE",
+        "argenx",
+        "阿根克斯"
       ],
       "business_focus": "專注以 FcRn 等抗體機制治療重症自體免疫疾病。",
       "company_id": "sec-0001697862",
@@ -278,7 +313,10 @@
     {
       "aliases": [
         "TAK",
-        "Takeda Pharmaceutical Company Limited"
+        "Takeda Pharmaceutical Company Limited",
+        "Takeda",
+        "武田藥品",
+        "武田"
       ],
       "business_focus": "全球綜合藥廠，核心領域包括腸胃、罕見疾病、血漿製品、腫瘤、疫苗與神經科學。",
       "company_id": "sec-0001395064",
@@ -295,7 +333,9 @@
     {
       "aliases": [
         "MRNA",
-        "Moderna, Inc."
+        "Moderna, Inc.",
+        "Moderna",
+        "莫德納"
       ],
       "business_focus": "以 mRNA 平台開發呼吸道疫苗，並延伸至癌症免疫治療、潛伏病毒與罕見疾病。",
       "company_id": "sec-0001682852",
@@ -312,7 +352,9 @@
     {
       "aliases": [
         "RVMD",
-        "Revolution Medicines, Inc."
+        "Revolution Medicines, Inc.",
+        "Revolution Medicines",
+        "瑞沃醫藥"
       ],
       "business_focus": "臨床階段精準腫瘤公司，專攻 RAS 驅動癌症與 RAS(ON) 抑制劑。",
       "company_id": "sec-0001628171",
@@ -329,7 +371,9 @@
     {
       "aliases": [
         "TEVA",
-        "Teva Pharmaceutical Industries Limited"
+        "Teva Pharmaceutical Industries Limited",
+        "Teva",
+        "梯瓦製藥"
       ],
       "business_focus": "以學名藥為主要業務，並經營中樞神經、呼吸與腫瘤等品牌藥及原料藥。",
       "company_id": "sec-0000818686",
@@ -346,7 +390,9 @@
     {
       "aliases": [
         "HLN",
-        "Haleon plc"
+        "Haleon plc",
+        "Haleon",
+        "赫力昂"
       ],
       "business_focus": "消費保健公司，主力是口腔保健、維生素補充品、止痛、呼吸與消化道非處方產品。",
       "company_id": "sec-0001900304",
@@ -363,7 +409,10 @@
     {
       "aliases": [
         "ONC",
-        "BeOne Medicines AG"
+        "BeOne Medicines AG",
+        "BeOne Medicines",
+        "BeiGene",
+        "百濟神州"
       ],
       "business_focus": "專注腫瘤藥物，兼具商業化血液癌與實體瘤產品及廣泛臨床管線。",
       "company_id": "sec-0001651308",
@@ -380,7 +429,9 @@
     {
       "aliases": [
         "RPRX",
-        "Royalty Pharma plc"
+        "Royalty Pharma plc",
+        "Royalty Pharma",
+        "羅亞爾蒂製藥"
       ],
       "business_focus": "透過購買藥品權利金與提供研發資金參與生物製藥，不是傳統自行研發製造的藥廠。",
       "company_id": "sec-0001802768",
@@ -397,7 +448,9 @@
     {
       "aliases": [
         "ALNY",
-        "Alnylam Pharmaceuticals, Inc."
+        "Alnylam Pharmaceuticals, Inc.",
+        "Alnylam",
+        "阿尼拉姆"
       ],
       "business_focus": "RNA 干擾療法先驅，產品與管線聚焦澱粉樣變性、血液、代謝、肝臟及罕見疾病。",
       "company_id": "sec-0001178670",
@@ -414,7 +467,9 @@
     {
       "aliases": [
         "BIIB",
-        "Biogen Inc."
+        "Biogen Inc.",
+        "Biogen",
+        "百健"
       ],
       "business_focus": "神經科學與罕見神經疾病公司，重點涵蓋多發性硬化、阿茲海默症與神經肌肉疾病。",
       "company_id": "sec-0000875045",
@@ -431,7 +486,9 @@
     {
       "aliases": [
         "ZTS",
-        "Zoetis Inc."
+        "Zoetis Inc.",
+        "Zoetis",
+        "碩騰"
       ],
       "business_focus": "動物保健公司，為伴侶動物與畜牧動物提供藥品、疫苗、診斷與精準健康方案。",
       "company_id": "sec-0001555280",
@@ -448,7 +505,9 @@
     {
       "aliases": [
         "ROIV",
-        "Roivant Sciences Ltd."
+        "Roivant Sciences Ltd.",
+        "Roivant",
+        "瑞萬特"
       ],
       "business_focus": "臨床階段生物製藥平台，聚焦自體免疫與心肺疾病，並透過多個子公司推進候選藥物。",
       "company_id": "sec-0001635088",
@@ -465,7 +524,9 @@
     {
       "aliases": [
         "INSM",
-        "Insmed Incorporated"
+        "Insmed Incorporated",
+        "Insmed",
+        "英斯美德"
       ],
       "business_focus": "開發嚴重與罕見疾病療法，主軸為罕見肺部感染、支氣管擴張與肺高壓。",
       "company_id": "sec-0001104506",
@@ -482,7 +543,9 @@
     {
       "aliases": [
         "INCY",
-        "Incyte Corporation"
+        "Incyte Corporation",
+        "Incyte",
+        "英賽特"
       ],
       "business_focus": "以血液腫瘤、實體瘤與發炎性皮膚疾病為主的生物製藥公司。",
       "company_id": "sec-0000879169",
@@ -499,7 +562,9 @@
     {
       "aliases": [
         "BNTX",
-        "BioNTech SE"
+        "BioNTech SE",
+        "BioNTech",
+        "拜恩泰科"
       ],
       "business_focus": "以 mRNA 與免疫療法平台開發疫苗及癌症治療，現有商業產品以 COVID-19 疫苗為主。",
       "company_id": "sec-0001776985",
@@ -516,7 +581,9 @@
     {
       "aliases": [
         "UTHR",
-        "United Therapeutics Corporation"
+        "United Therapeutics Corporation",
+        "United Therapeutics",
+        "聯合治療"
       ],
       "business_focus": "專注肺動脈高壓等重症心肺疾病，並開發異種移植與再生醫療器官產品。",
       "company_id": "sec-0001082554",
@@ -533,7 +600,9 @@
     {
       "aliases": [
         "VTRS",
-        "Viatris Inc."
+        "Viatris Inc.",
+        "Viatris",
+        "暉致"
       ],
       "business_focus": "全球品牌藥、學名藥、複雜學名藥與生物相似藥供應商，治療領域十分廣泛。",
       "company_id": "sec-0001792044",
@@ -550,7 +619,10 @@
     {
       "aliases": [
         "ASND",
-        "Ascendis Pharma A/S"
+        "Ascendis Pharma A/S",
+        "Ascendis Pharma",
+        "Ascendis",
+        "艾森迪斯"
       ],
       "business_focus": "以 TransCon 長效技術平台開發內分泌罕見疾病與腫瘤療法。",
       "company_id": "sec-0001612042",
@@ -567,7 +639,10 @@
     {
       "aliases": [
         "NBIX",
-        "Neurocrine Biosciences, Inc."
+        "Neurocrine Biosciences, Inc.",
+        "Neurocrine Biosciences",
+        "Neurocrine",
+        "紐羅克林"
       ],
       "business_focus": "研發神經、精神、內分泌與免疫疾病藥物，以運動障礙及神經精神疾病為重點。",
       "company_id": "sec-0000914475",
@@ -584,7 +659,10 @@
     {
       "aliases": [
         "JAZZ",
-        "Jazz Pharmaceuticals plc"
+        "Jazz Pharmaceuticals plc",
+        "Jazz Pharmaceuticals",
+        "Jazz Pharma",
+        "爵士製藥"
       ],
       "business_focus": "聚焦睡眠與神經疾病、癲癇，以及血液癌和實體瘤等腫瘤產品。",
       "company_id": "sec-0001232524",
@@ -601,7 +679,10 @@
     {
       "aliases": [
         "BBIO",
-        "BridgeBio Pharma, Inc."
+        "BridgeBio Pharma, Inc.",
+        "BridgeBio Pharma",
+        "BridgeBio",
+        "橋接生物製藥"
       ],
       "business_focus": "專注遺傳疾病，以小分子、酵素替代與基因治療開發罕見病藥物。",
       "company_id": "sec-0001743881",
@@ -618,7 +699,9 @@
     {
       "aliases": [
         "EXEL",
-        "Exelixis, Inc."
+        "Exelixis, Inc.",
+        "Exelixis",
+        "伊克力西斯"
       ],
       "business_focus": "專注難治型癌症的標靶藥物與新型抗體藥物開發。",
       "company_id": "sec-0000939767",
@@ -635,7 +718,10 @@
     {
       "aliases": [
         "SMMT",
-        "Summit Therapeutics Inc."
+        "Summit Therapeutics Inc.",
+        "Summit Therapeutics",
+        "Summit",
+        "峰會治療"
       ],
       "business_focus": "臨床階段腫瘤公司，核心資產是同時作用於 PD-1 與 VEGF 的雙特異性抗體 ivonescimab。",
       "company_id": "sec-0001599298",
@@ -652,7 +738,9 @@
     {
       "aliases": [
         "BMRN",
-        "BioMarin Pharmaceutical Inc."
+        "BioMarin Pharmaceutical Inc.",
+        "BioMarin",
+        "拜瑪林"
       ],
       "business_focus": "研發與銷售嚴重罕見疾病療法，涵蓋溶小體儲積症、骨骼發育與代謝疾病。",
       "company_id": "sec-0001048477",
@@ -669,7 +757,10 @@
     {
       "aliases": [
         "MDGL",
-        "Madrigal Pharmaceuticals, Inc."
+        "Madrigal Pharmaceuticals, Inc.",
+        "Madrigal Pharmaceuticals",
+        "Madrigal",
+        "馬德里加爾"
       ],
       "business_focus": "專注代謝功能障礙相關脂肪性肝炎 MASH，商業核心是肝臟選擇性甲狀腺素受體藥物。",
       "company_id": "sec-0001157601",
@@ -686,7 +777,10 @@
     {
       "aliases": [
         "CORT",
-        "Corcept Therapeutics Incorporated"
+        "Corcept Therapeutics Incorporated",
+        "Corcept Therapeutics",
+        "Corcept",
+        "科賽普特"
       ],
       "business_focus": "以皮質醇調節機制開發內分泌、腫瘤、代謝與神經疾病藥物。",
       "company_id": "sec-0001088856",
@@ -703,7 +797,10 @@
     {
       "aliases": [
         "HALO",
-        "Halozyme Therapeutics, Inc."
+        "Halozyme Therapeutics, Inc.",
+        "Halozyme Therapeutics",
+        "Halozyme",
+        "哈洛酶"
       ],
       "business_focus": "以 ENHANZE 皮下注射遞送技術授權為核心，另有自有注射產品與裝置。",
       "company_id": "sec-0001159036",
@@ -720,7 +817,10 @@
     {
       "aliases": [
         "ARWR",
-        "Arrowhead Pharmaceuticals, Inc."
+        "Arrowhead Pharmaceuticals, Inc.",
+        "Arrowhead Pharmaceuticals",
+        "Arrowhead",
+        "箭頭製藥"
       ],
       "business_focus": "以 RNA 干擾技術沉默致病基因，管線涵蓋心代謝、肝病、發炎與神經疾病。",
       "company_id": "sec-0000879407",
@@ -737,7 +837,9 @@
     {
       "aliases": [
         "ELAN",
-        "Elanco Animal Health Incorporated"
+        "Elanco Animal Health Incorporated",
+        "Elanco",
+        "禮藍動保"
       ],
       "business_focus": "動物保健公司，向寵物與畜牧市場提供驅蟲藥、疫苗、疼痛與感染治療產品。",
       "company_id": "sec-0001739104",
@@ -754,7 +856,10 @@
     {
       "aliases": [
         "TECH",
-        "Bio-Techne Corporation"
+        "Bio-Techne Corporation",
+        "Bio-Techne",
+        "BioTechne",
+        "百進科技"
       ],
       "business_focus": "生命科學工具與診斷供應商，銷售研究試劑、蛋白分析儀器、空間生物學與診斷產品；不是傳統藥物開發商。",
       "company_id": "sec-0000842023",
@@ -771,7 +876,10 @@
     {
       "aliases": [
         "AXSM",
-        "Axsome Therapeutics, Inc."
+        "Axsome Therapeutics, Inc.",
+        "Axsome Therapeutics",
+        "Axsome",
+        "艾克森"
       ],
       "business_focus": "專注中樞神經疾病，商業產品涵蓋重度憂鬱、嗜睡與偏頭痛。",
       "company_id": "sec-0001579428",
@@ -788,7 +896,9 @@
     {
       "aliases": [
         "CYTK",
-        "Cytokinetics, Incorporated"
+        "Cytokinetics, Incorporated",
+        "Cytokinetics",
+        "細胞動力"
       ],
       "business_focus": "專注肌肉生物學，以心肌肌球蛋白調節劑開發肥厚性心肌病與心衰竭療法。",
       "company_id": "sec-0001061983",
@@ -805,7 +915,10 @@
     {
       "aliases": [
         "KRYS",
-        "Krystal Biotech, Inc."
+        "Krystal Biotech, Inc.",
+        "Krystal Biotech",
+        "Krystal",
+        "克里斯托生技"
       ],
       "business_focus": "以基因治療平台開發罕見皮膚、眼科與肺部疾病療法。",
       "company_id": "sec-0001711279",
@@ -822,7 +935,9 @@
     {
       "aliases": [
         "ABVX",
-        "ABIVAX Société Anonyme"
+        "ABIVAX Société Anonyme",
+        "Abivax",
+        "阿比瓦克斯"
       ],
       "business_focus": "臨床階段免疫公司，核心候選藥 obefazimod 聚焦慢性發炎性腸道疾病。",
       "company_id": "sec-0001956827",
@@ -839,7 +954,10 @@
     {
       "aliases": [
         "RDY",
-        "Dr. Reddy's Laboratories Limited"
+        "Dr. Reddy's Laboratories Limited",
+        "Dr. Reddy's",
+        "Dr Reddy's",
+        "瑞迪博士實驗室"
       ],
       "business_focus": "綜合製藥公司，主力為全球學名藥與原料藥，另有生物製劑及腫瘤、發炎等差異化管線。",
       "company_id": "sec-0001135951",
@@ -855,6 +973,6 @@
     }
   ],
   "company_count": 50,
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0"
 }

@@ -1,7 +1,9 @@
 {
   "aliases": [
     "BMRN",
-    "BioMarin Pharmaceutical Inc."
+    "BioMarin Pharmaceutical Inc.",
+    "BioMarin",
+    "拜瑪林"
   ],
   "business_focus": "研發與銷售嚴重罕見疾病療法，涵蓋溶小體儲積症、骨骼發育與代謝疾病。",
   "cik": "0001048477",
@@ -39,12 +41,12 @@
       "status": "marketed"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/bmrn/company/"
     }
   ],

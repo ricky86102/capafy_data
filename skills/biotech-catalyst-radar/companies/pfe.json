@@ -45,22 +45,22 @@
       "status": "marketed"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/pfe/company/"
     },
     {
       "publisher": "Pfizer",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://labeling.pfizer.com/ShowLabeling.aspx?id=652"
     },
     {
       "publisher": "Viatris",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://newsroom.viatris.com/2024-07-03-Viatris-Brings-to-Completion-All-Previously-Announced-Divestitures-With-the-Closing-of-its-Over-the-Counter-Business-Divestiture"
     }
   ],

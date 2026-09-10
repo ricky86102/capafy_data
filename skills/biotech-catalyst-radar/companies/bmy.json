@@ -1,7 +1,10 @@
 {
   "aliases": [
     "BMY",
-    "Bristol-Myers Squibb Company"
+    "Bristol-Myers Squibb Company",
+    "Bristol Myers Squibb",
+    "Bristol-Myers Squibb",
+    "百時美施貴寶"
   ],
   "business_focus": "主要經營腫瘤、血液、免疫、心血管與神經疾病藥物。",
   "cik": "0000014272",
@@ -40,12 +43,12 @@
       "status": "marketed"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/bmy/company/"
     }
   ],

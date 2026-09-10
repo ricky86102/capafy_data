@@ -1,7 +1,10 @@
 {
   "aliases": [
     "TAK",
-    "Takeda Pharmaceutical Company Limited"
+    "Takeda Pharmaceutical Company Limited",
+    "Takeda",
+    "武田藥品",
+    "武田"
   ],
   "business_focus": "全球綜合藥廠，核心領域包括腸胃、罕見疾病、血漿製品、腫瘤、疫苗與神經科學。",
   "cik": "0001395064",
@@ -41,12 +44,12 @@
       "status": "marketed"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/tak/company/"
     }
   ],

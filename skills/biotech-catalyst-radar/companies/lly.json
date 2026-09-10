@@ -1,7 +1,10 @@
 {
   "aliases": [
     "LLY",
-    "Eli Lilly and Company"
+    "Eli Lilly and Company",
+    "Eli Lilly",
+    "Lilly",
+    "禮來"
   ],
   "business_focus": "以糖尿病、肥胖等心代謝疾病為核心，並布局腫瘤、免疫與神經疾病藥物。",
   "cik": "0000059478",
@@ -40,12 +43,12 @@
       "status": "marketed"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/lly/company/"
     }
   ],

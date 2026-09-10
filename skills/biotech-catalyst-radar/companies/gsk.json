@@ -1,7 +1,9 @@
 {
   "aliases": [
     "GSK",
-    "GSK plc"
+    "GSK plc",
+    "GlaxoSmithKline",
+    "葛蘭素史克"
   ],
   "business_focus": "以疫苗、專科藥與一般藥品為三大支柱，涵蓋呼吸、免疫、感染症與腫瘤。",
   "cik": "0001131399",
@@ -46,12 +48,12 @@
       "status": "portfolio"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/gsk/company/"
     }
   ],

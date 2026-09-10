@@ -1,7 +1,10 @@
 {
   "aliases": [
     "ARWR",
-    "Arrowhead Pharmaceuticals, Inc."
+    "Arrowhead Pharmaceuticals, Inc.",
+    "Arrowhead Pharmaceuticals",
+    "Arrowhead",
+    "箭頭製藥"
   ],
   "business_focus": "以 RNA 干擾技術沉默致病基因，管線涵蓋心代謝、肝病、發炎與神經疾病。",
   "cik": "0000879407",
@@ -40,12 +43,12 @@
       "status": "pipeline"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/arwr/company/"
     }
   ],

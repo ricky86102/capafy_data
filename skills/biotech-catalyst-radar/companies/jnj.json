@@ -1,7 +1,10 @@
 {
   "aliases": [
     "JNJ",
-    "Johnson & Johnson"
+    "Johnson & Johnson",
+    "J&J",
+    "Johnson and Johnson",
+    "嬌生"
   ],
   "business_focus": "同時經營創新藥與醫療科技；藥品重點涵蓋腫瘤、免疫、神經、肺高壓與心血管代謝。",
   "cik": "0000200406",
@@ -43,12 +46,12 @@
       "status": "marketed"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/jnj/company/"
     }
   ],

@@ -1,7 +1,10 @@
 {
   "aliases": [
     "AXSM",
-    "Axsome Therapeutics, Inc."
+    "Axsome Therapeutics, Inc.",
+    "Axsome Therapeutics",
+    "Axsome",
+    "艾克森"
   ],
   "business_focus": "專注中樞神經疾病，商業產品涵蓋重度憂鬱、嗜睡與偏頭痛。",
   "cik": "0001579428",
@@ -39,12 +42,12 @@
       "status": "marketed"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/axsm/company/"
     }
   ],

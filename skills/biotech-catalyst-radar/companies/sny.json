@@ -1,7 +1,8 @@
 {
   "aliases": [
     "SNY",
-    "Sanofi"
+    "Sanofi",
+    "賽諾菲"
   ],
   "business_focus": "聚焦免疫發炎、罕見疾病、神經、腫瘤與多類疫苗。",
   "cik": "0001121404",
@@ -42,12 +43,12 @@
       "status": "pipeline"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/sny/company/"
     }
   ],

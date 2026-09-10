@@ -1,7 +1,10 @@
 {
   "aliases": [
     "HALO",
-    "Halozyme Therapeutics, Inc."
+    "Halozyme Therapeutics, Inc.",
+    "Halozyme Therapeutics",
+    "Halozyme",
+    "哈洛酶"
   ],
   "business_focus": "以 ENHANZE 皮下注射遞送技術授權為核心，另有自有注射產品與裝置。",
   "cik": "0001159036",
@@ -40,12 +43,12 @@
       "status": "marketed"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/halo/company/"
     }
   ],

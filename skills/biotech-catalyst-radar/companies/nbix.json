@@ -1,7 +1,10 @@
 {
   "aliases": [
     "NBIX",
-    "Neurocrine Biosciences, Inc."
+    "Neurocrine Biosciences, Inc.",
+    "Neurocrine Biosciences",
+    "Neurocrine",
+    "紐羅克林"
   ],
   "business_focus": "研發神經、精神、內分泌與免疫疾病藥物，以運動障礙及神經精神疾病為重點。",
   "cik": "0000914475",
@@ -39,12 +42,12 @@
       "status": "pipeline"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/nbix/company/"
     }
   ],

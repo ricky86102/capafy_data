@@ -1,7 +1,10 @@
 {
   "aliases": [
     "ONC",
-    "BeOne Medicines AG"
+    "BeOne Medicines AG",
+    "BeOne Medicines",
+    "BeiGene",
+    "百濟神州"
   ],
   "business_focus": "專注腫瘤藥物，兼具商業化血液癌與實體瘤產品及廣泛臨床管線。",
   "cik": "0001651308",
@@ -39,12 +42,12 @@
       "status": "pipeline"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/onc/company/"
     }
   ],

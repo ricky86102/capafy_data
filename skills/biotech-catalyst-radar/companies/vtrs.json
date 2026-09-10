@@ -1,7 +1,9 @@
 {
   "aliases": [
     "VTRS",
-    "Viatris Inc."
+    "Viatris Inc.",
+    "Viatris",
+    "暉致"
   ],
   "business_focus": "全球品牌藥、學名藥、複雜學名藥與生物相似藥供應商，治療領域十分廣泛。",
   "cik": "0001792044",
@@ -41,12 +43,12 @@
       "status": "marketed"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/vtrs/company/"
     }
   ],

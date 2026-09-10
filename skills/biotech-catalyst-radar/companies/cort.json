@@ -1,7 +1,10 @@
 {
   "aliases": [
     "CORT",
-    "Corcept Therapeutics Incorporated"
+    "Corcept Therapeutics Incorporated",
+    "Corcept Therapeutics",
+    "Corcept",
+    "科賽普特"
   ],
   "business_focus": "以皮質醇調節機制開發內分泌、腫瘤、代謝與神經疾病藥物。",
   "cik": "0001088856",
@@ -40,12 +43,12 @@
       "status": "pipeline"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/cort/company/"
     }
   ],

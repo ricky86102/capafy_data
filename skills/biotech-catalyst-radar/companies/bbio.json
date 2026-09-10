@@ -1,7 +1,10 @@
 {
   "aliases": [
     "BBIO",
-    "BridgeBio Pharma, Inc."
+    "BridgeBio Pharma, Inc.",
+    "BridgeBio Pharma",
+    "BridgeBio",
+    "橋接生物製藥"
   ],
   "business_focus": "專注遺傳疾病，以小分子、酵素替代與基因治療開發罕見病藥物。",
   "cik": "0001743881",
@@ -39,12 +42,12 @@
       "status": "pipeline"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/bbio/company/"
     }
   ],

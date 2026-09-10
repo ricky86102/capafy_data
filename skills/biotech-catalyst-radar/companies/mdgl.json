@@ -1,7 +1,10 @@
 {
   "aliases": [
     "MDGL",
-    "Madrigal Pharmaceuticals, Inc."
+    "Madrigal Pharmaceuticals, Inc.",
+    "Madrigal Pharmaceuticals",
+    "Madrigal",
+    "馬德里加爾"
   ],
   "business_focus": "專注代謝功能障礙相關脂肪性肝炎 MASH，商業核心是肝臟選擇性甲狀腺素受體藥物。",
   "cik": "0001157601",
@@ -24,12 +27,12 @@
       "status": "marketed"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/mdgl/company/"
     }
   ],

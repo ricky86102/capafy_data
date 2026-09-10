@@ -1,7 +1,9 @@
 {
   "aliases": [
     "UTHR",
-    "United Therapeutics Corporation"
+    "United Therapeutics Corporation",
+    "United Therapeutics",
+    "聯合治療"
   ],
   "business_focus": "專注肺動脈高壓等重症心肺疾病，並開發異種移植與再生醫療器官產品。",
   "cik": "0001082554",
@@ -39,12 +41,12 @@
       "status": "pipeline"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/uthr/company/"
     }
   ],

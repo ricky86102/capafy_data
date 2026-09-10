@@ -1,7 +1,10 @@
 {
   "aliases": [
     "TECH",
-    "Bio-Techne Corporation"
+    "Bio-Techne Corporation",
+    "Bio-Techne",
+    "BioTechne",
+    "百進科技"
   ],
   "business_focus": "生命科學工具與診斷供應商，銷售研究試劑、蛋白分析儀器、空間生物學與診斷產品；不是傳統藥物開發商。",
   "cik": "0000842023",
@@ -33,12 +36,12 @@
       "status": "portfolio"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/tech/company/"
     }
   ],

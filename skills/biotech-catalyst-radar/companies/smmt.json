@@ -1,7 +1,10 @@
 {
   "aliases": [
     "SMMT",
-    "Summit Therapeutics Inc."
+    "Summit Therapeutics Inc.",
+    "Summit Therapeutics",
+    "Summit",
+    "峰會治療"
   ],
   "business_focus": "臨床階段腫瘤公司，核心資產是同時作用於 PD-1 與 VEGF 的雙特異性抗體 ivonescimab。",
   "cik": "0001599298",
@@ -25,12 +28,12 @@
       "status": "pipeline"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/smmt/company/"
     }
   ],

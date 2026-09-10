@@ -1,7 +1,9 @@
 {
   "aliases": [
     "GILD",
-    "Gilead Sciences, Inc."
+    "Gilead Sciences, Inc.",
+    "Gilead",
+    "吉利德"
   ],
   "business_focus": "以 HIV 與病毒性肝炎抗病毒藥為根基，並擴展至細胞治療與腫瘤藥物。",
   "cik": "0000882095",
@@ -40,12 +42,12 @@
       "status": "marketed"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/gild/company/"
     }
   ],

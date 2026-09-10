@@ -1,7 +1,9 @@
 {
   "aliases": [
     "NVO",
-    "Novo Nordisk A/S"
+    "Novo Nordisk A/S",
+    "Novo Nordisk",
+    "諾和諾德"
   ],
   "business_focus": "主要經營糖尿病與肥胖治療，並涵蓋罕見血液及內分泌疾病。",
   "cik": "0000353278",
@@ -40,12 +42,12 @@
       "status": "portfolio"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/nvo/company/"
     }
   ],

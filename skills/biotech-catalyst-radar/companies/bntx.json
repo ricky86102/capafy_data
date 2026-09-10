@@ -1,7 +1,9 @@
 {
   "aliases": [
     "BNTX",
-    "BioNTech SE"
+    "BioNTech SE",
+    "BioNTech",
+    "拜恩泰科"
   ],
   "business_focus": "以 mRNA 與免疫療法平台開發疫苗及癌症治療，現有商業產品以 COVID-19 疫苗為主。",
   "cik": "0001776985",
@@ -39,12 +41,12 @@
       "status": "pipeline"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/bntx/company/"
     }
   ],

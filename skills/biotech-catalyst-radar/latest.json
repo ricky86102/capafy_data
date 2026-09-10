@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-09",
+  "as_of": "2026-09-10",
   "events": [
     {
       "company_name": "Tenax Therapeutics, Inc.",
@@ -17,7 +17,7 @@
         }
       ],
       "published_at": "2026-08-10T11:00:00Z",
-      "retrieved_at": "2026-09-09T08:27:50.116679Z",
+      "retrieved_at": "2026-09-10T08:11:23.102157Z",
       "review_status": "approved",
       "source_url": "https://investors.tenaxthera.com/news-releases/news-release-details/tenax-therapeutics-announces-topline-results-phase-3-level",
       "stage": "Phase 3",
@@ -43,7 +43,7 @@
         }
       ],
       "published_at": "2026-07-01T00:00:00Z",
-      "retrieved_at": "2026-09-09T08:27:50.116679Z",
+      "retrieved_at": "2026-09-10T08:11:23.102157Z",
       "review_status": "approved",
       "source_url": "https://clinicaltrials.gov/study/NCT03108495",
       "stage": "Phase 2",
@@ -69,7 +69,7 @@
         }
       ],
       "published_at": "2026-08-31T20:00:00Z",
-      "retrieved_at": "2026-09-09T08:27:50.116679Z",
+      "retrieved_at": "2026-09-10T08:11:23.102157Z",
       "review_status": "approved",
       "source_url": "https://www.sec.gov/Archives/edgar/data/1472091/000114036126035809/ef20081442_8k.htm",
       "stage": null,
@@ -80,7 +80,7 @@
       ]
     }
   ],
-  "generated_at": "2026-09-09T08:27:50.116679Z",
+  "generated_at": "2026-09-10T08:11:23.102157Z",
   "mode": "fixture",
   "model": {
     "execution": "deterministic-schema-pipeline",
@@ -88,24 +88,24 @@
     "primary": "gpt-5.6",
     "role": "backend_research"
   },
-  "run_id": "1873cf41a7bcd81d",
+  "run_id": "334f2f41a019cb87",
   "schema_version": "1.0.0",
   "source_status": [
     {
       "item": "iova_trial_termination.json",
-      "retrieved_at": "2026-09-09T08:27:50.116679Z",
+      "retrieved_at": "2026-09-10T08:11:23.102157Z",
       "source": "fixture",
       "status": "ok"
     },
     {
       "item": "pdsb_financing.json",
-      "retrieved_at": "2026-09-09T08:27:50.116679Z",
+      "retrieved_at": "2026-09-10T08:11:23.102157Z",
       "source": "fixture",
       "status": "ok"
     },
     {
       "item": "tenx_clinical_readout.json",
-      "retrieved_at": "2026-09-09T08:27:50.116679Z",
+      "retrieved_at": "2026-09-10T08:11:23.102157Z",
       "source": "fixture",
       "status": "ok"
     }

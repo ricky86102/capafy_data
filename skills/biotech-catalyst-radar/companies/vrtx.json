@@ -1,7 +1,10 @@
 {
   "aliases": [
     "VRTX",
-    "Vertex Pharmaceuticals Incorporated"
+    "Vertex Pharmaceuticals Incorporated",
+    "Vertex",
+    "Vertex Pharmaceuticals",
+    "福泰製藥"
   ],
   "business_focus": "以囊性纖維化專科藥物為核心，並拓展鐮刀型紅血球疾病、地中海型貧血、急性疼痛與腎臟疾病。",
   "cik": "0000875320",
@@ -40,12 +43,12 @@
       "status": "marketed"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/vrtx/company/"
     }
   ],

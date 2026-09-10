@@ -1,7 +1,9 @@
 {
   "aliases": [
     "NVS",
-    "Novartis AG"
+    "Novartis AG",
+    "Novartis",
+    "諾華"
   ],
   "business_focus": "聚焦心血管腎臟代謝、免疫、神經、腫瘤與血液疾病的創新藥。",
   "cik": "0001114448",
@@ -40,12 +42,12 @@
       "status": "marketed"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/nvs/company/"
     }
   ],

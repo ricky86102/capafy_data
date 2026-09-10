@@ -1,7 +1,9 @@
 {
   "aliases": [
     "REGN",
-    "Regeneron Pharmaceuticals, Inc."
+    "Regeneron Pharmaceuticals, Inc.",
+    "Regeneron",
+    "再生元"
   ],
   "business_focus": "以抗體藥物為主，重點在眼科、過敏發炎、腫瘤、心血管代謝與罕見疾病。",
   "cik": "0000872589",
@@ -40,12 +42,12 @@
       "status": "marketed"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/regn/company/"
     }
   ],

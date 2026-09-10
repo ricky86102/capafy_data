@@ -1,7 +1,9 @@
 {
   "aliases": [
     "BIIB",
-    "Biogen Inc."
+    "Biogen Inc.",
+    "Biogen",
+    "百健"
   ],
   "business_focus": "神經科學與罕見神經疾病公司，重點涵蓋多發性硬化、阿茲海默症與神經肌肉疾病。",
   "cik": "0000875045",
@@ -39,12 +41,12 @@
       "status": "marketed"
     }
   ],
-  "profile_as_of": "2026-09-09",
+  "profile_as_of": "2026-09-10",
   "schema_version": "1.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-09",
+      "retrieved_on": "2026-09-10",
       "url": "https://stockanalysis.com/stocks/biib/company/"
     }
   ],
