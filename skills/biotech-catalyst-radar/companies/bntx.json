@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "NASDAQ:BNTX",
     "BNTX",
     "BioNTech SE",
     "BioNTech",
@@ -11,6 +12,7 @@
   "company_name": "BioNTech SE",
   "company_url": "https://www.biontech.de",
   "context_notes": [],
+  "exchange": "NASDAQ",
   "focus_areas": [
     "mRNA 疫苗",
     "癌症免疫治療",
@@ -42,7 +44,7 @@
     }
   ],
   "profile_as_of": "2026-09-10",
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
@@ -55,7 +57,8 @@
     "BNTX 有哪些重要產品或管線？",
     "BNTX 最近有什麼事件？"
   ],
-  "ticker": "BNTX",
+  "symbol": "BNTX",
+  "ticker": "NASDAQ:BNTX",
   "uncertainties": [
     "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
   ]

@@ -1,5 +1,1216 @@
 {
   "as_of": "2026-09-10",
+  "companies": [
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0000059478",
+      "company_name": "Eli Lilly and Company",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NYSE",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 1,
+      "profile_path": "companies/lly.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "LLY",
+      "ticker": "NYSE:LLY"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0000200406",
+      "company_name": "Johnson & Johnson",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NYSE",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 2,
+      "profile_path": "companies/jnj.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "JNJ",
+      "ticker": "NYSE:JNJ"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001551152",
+      "company_name": "AbbVie Inc.",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NYSE",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 3,
+      "profile_path": "companies/abbv.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "ABBV",
+      "ticker": "NYSE:ABBV"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0000310158",
+      "company_name": "Merck & Co., Inc.",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NYSE",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 4,
+      "profile_path": "companies/mrk.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "MRK",
+      "ticker": "NYSE:MRK"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001114448",
+      "company_name": "Novartis AG",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NYSE",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 5,
+      "profile_path": "companies/nvs.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "NVS",
+      "ticker": "NYSE:NVS"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0000901832",
+      "company_name": "AstraZeneca PLC",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NYSE",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 6,
+      "profile_path": "companies/azn.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "AZN",
+      "ticker": "NYSE:AZN"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0000318154",
+      "company_name": "Amgen Inc.",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 7,
+      "profile_path": "companies/amgn.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "AMGN",
+      "ticker": "NASDAQ:AMGN"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0000353278",
+      "company_name": "Novo Nordisk A/S",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NYSE",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 8,
+      "profile_path": "companies/nvo.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "NVO",
+      "ticker": "NYSE:NVO"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0000882095",
+      "company_name": "Gilead Sciences, Inc.",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 9,
+      "profile_path": "companies/gild.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "GILD",
+      "ticker": "NASDAQ:GILD"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0000078003",
+      "company_name": "Pfizer Inc.",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NYSE",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 10,
+      "profile_path": "companies/pfe.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "PFE",
+      "ticker": "NYSE:PFE"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0000875320",
+      "company_name": "Vertex Pharmaceuticals Incorporated",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 11,
+      "profile_path": "companies/vrtx.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "VRTX",
+      "ticker": "NASDAQ:VRTX"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0000014272",
+      "company_name": "Bristol-Myers Squibb Company",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NYSE",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 12,
+      "profile_path": "companies/bmy.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "BMY",
+      "ticker": "NYSE:BMY"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001121404",
+      "company_name": "Sanofi",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 13,
+      "profile_path": "companies/sny.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "SNY",
+      "ticker": "NASDAQ:SNY"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001131399",
+      "company_name": "GSK plc",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NYSE",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 14,
+      "profile_path": "companies/gsk.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "GSK",
+      "ticker": "NYSE:GSK"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0000872589",
+      "company_name": "Regeneron Pharmaceuticals, Inc.",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 15,
+      "profile_path": "companies/regn.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "REGN",
+      "ticker": "NASDAQ:REGN"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001697862",
+      "company_name": "argenx SE",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 16,
+      "profile_path": "companies/argx.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "ARGX",
+      "ticker": "NASDAQ:ARGX"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001395064",
+      "company_name": "Takeda Pharmaceutical Company Limited",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NYSE",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 17,
+      "profile_path": "companies/tak.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "TAK",
+      "ticker": "NYSE:TAK"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001682852",
+      "company_name": "Moderna, Inc.",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 18,
+      "profile_path": "companies/mrna.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "MRNA",
+      "ticker": "NASDAQ:MRNA"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001628171",
+      "company_name": "Revolution Medicines, Inc.",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 19,
+      "profile_path": "companies/rvmd.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "RVMD",
+      "ticker": "NASDAQ:RVMD"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0000818686",
+      "company_name": "Teva Pharmaceutical Industries Limited",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NYSE",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 20,
+      "profile_path": "companies/teva.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "TEVA",
+      "ticker": "NYSE:TEVA"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001900304",
+      "company_name": "Haleon plc",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NYSE",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 21,
+      "profile_path": "companies/hln.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "HLN",
+      "ticker": "NYSE:HLN"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001651308",
+      "company_name": "BeOne Medicines AG",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 22,
+      "profile_path": "companies/onc.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "ONC",
+      "ticker": "NASDAQ:ONC"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001802768",
+      "company_name": "Royalty Pharma plc",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 23,
+      "profile_path": "companies/rprx.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "RPRX",
+      "ticker": "NASDAQ:RPRX"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001178670",
+      "company_name": "Alnylam Pharmaceuticals, Inc.",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 24,
+      "profile_path": "companies/alny.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "ALNY",
+      "ticker": "NASDAQ:ALNY"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0000875045",
+      "company_name": "Biogen Inc.",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 25,
+      "profile_path": "companies/biib.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "BIIB",
+      "ticker": "NASDAQ:BIIB"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001555280",
+      "company_name": "Zoetis Inc.",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NYSE",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 26,
+      "profile_path": "companies/zts.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "ZTS",
+      "ticker": "NYSE:ZTS"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001635088",
+      "company_name": "Roivant Sciences Ltd.",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 27,
+      "profile_path": "companies/roiv.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "ROIV",
+      "ticker": "NASDAQ:ROIV"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001104506",
+      "company_name": "Insmed Incorporated",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 28,
+      "profile_path": "companies/insm.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "INSM",
+      "ticker": "NASDAQ:INSM"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0000879169",
+      "company_name": "Incyte Corporation",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 29,
+      "profile_path": "companies/incy.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "INCY",
+      "ticker": "NASDAQ:INCY"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001776985",
+      "company_name": "BioNTech SE",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 30,
+      "profile_path": "companies/bntx.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "BNTX",
+      "ticker": "NASDAQ:BNTX"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001082554",
+      "company_name": "United Therapeutics Corporation",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 31,
+      "profile_path": "companies/uthr.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "UTHR",
+      "ticker": "NASDAQ:UTHR"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001792044",
+      "company_name": "Viatris Inc.",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 32,
+      "profile_path": "companies/vtrs.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "VTRS",
+      "ticker": "NASDAQ:VTRS"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001612042",
+      "company_name": "Ascendis Pharma A/S",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 33,
+      "profile_path": "companies/asnd.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "ASND",
+      "ticker": "NASDAQ:ASND"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0000914475",
+      "company_name": "Neurocrine Biosciences, Inc.",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 34,
+      "profile_path": "companies/nbix.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "NBIX",
+      "ticker": "NASDAQ:NBIX"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001232524",
+      "company_name": "Jazz Pharmaceuticals plc",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 35,
+      "profile_path": "companies/jazz.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "JAZZ",
+      "ticker": "NASDAQ:JAZZ"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001743881",
+      "company_name": "BridgeBio Pharma, Inc.",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 36,
+      "profile_path": "companies/bbio.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "BBIO",
+      "ticker": "NASDAQ:BBIO"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0000939767",
+      "company_name": "Exelixis, Inc.",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 37,
+      "profile_path": "companies/exel.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "EXEL",
+      "ticker": "NASDAQ:EXEL"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001599298",
+      "company_name": "Summit Therapeutics Inc.",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 38,
+      "profile_path": "companies/smmt.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "SMMT",
+      "ticker": "NASDAQ:SMMT"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001048477",
+      "company_name": "BioMarin Pharmaceutical Inc.",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 39,
+      "profile_path": "companies/bmrn.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "BMRN",
+      "ticker": "NASDAQ:BMRN"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001157601",
+      "company_name": "Madrigal Pharmaceuticals, Inc.",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 40,
+      "profile_path": "companies/mdgl.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "MDGL",
+      "ticker": "NASDAQ:MDGL"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001088856",
+      "company_name": "Corcept Therapeutics Incorporated",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 41,
+      "profile_path": "companies/cort.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "CORT",
+      "ticker": "NASDAQ:CORT"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001159036",
+      "company_name": "Halozyme Therapeutics, Inc.",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 42,
+      "profile_path": "companies/halo.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "HALO",
+      "ticker": "NASDAQ:HALO"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0000879407",
+      "company_name": "Arrowhead Pharmaceuticals, Inc.",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 43,
+      "profile_path": "companies/arwr.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "ARWR",
+      "ticker": "NASDAQ:ARWR"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001739104",
+      "company_name": "Elanco Animal Health Incorporated",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NYSE",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 44,
+      "profile_path": "companies/elan.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "ELAN",
+      "ticker": "NYSE:ELAN"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0000842023",
+      "company_name": "Bio-Techne Corporation",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 45,
+      "profile_path": "companies/tech.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "TECH",
+      "ticker": "NASDAQ:TECH"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001579428",
+      "company_name": "Axsome Therapeutics, Inc.",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 46,
+      "profile_path": "companies/axsm.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "AXSM",
+      "ticker": "NASDAQ:AXSM"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001061983",
+      "company_name": "Cytokinetics, Incorporated",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 47,
+      "profile_path": "companies/cytk.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "CYTK",
+      "ticker": "NASDAQ:CYTK"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001711279",
+      "company_name": "Krystal Biotech, Inc.",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 48,
+      "profile_path": "companies/krys.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "KRYS",
+      "ticker": "NASDAQ:KRYS"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001956827",
+      "company_name": "ABIVAX Société Anonyme",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NASDAQ",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 49,
+      "profile_path": "companies/abvx.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "ABVX",
+      "ticker": "NASDAQ:ABVX"
+    },
+    {
+      "as_of": "2026-09-10",
+      "company_id": "sec-0001135951",
+      "company_name": "Dr. Reddy's Laboratories Limited",
+      "daily_status": "no_material_update",
+      "event_ids": [],
+      "exchange": "NYSE",
+      "generated_at": "2026-09-10T08:45:07.044901Z",
+      "history_path": null,
+      "last_material_event": null,
+      "market_cap_rank": 50,
+      "profile_path": "companies/rdy.json",
+      "source_coverage": [
+        {
+          "checked_at": "2026-09-10T08:45:07.044901Z",
+          "detail": "Simulated complete-watchlist fixture coverage",
+          "source": "fixture",
+          "status": "ok_no_change"
+        }
+      ],
+      "summary": "No material update is present for this company in the simulated fixture coverage.",
+      "symbol": "RDY",
+      "ticker": "NYSE:RDY"
+    }
+  ],
+  "coverage": {
+    "checked_companies": 50,
+    "degraded": 0,
+    "expected_companies": 50,
+    "listed_companies": 50,
+    "material_updates": 0,
+    "no_material_updates": 50,
+    "not_checked": 0
+  },
   "events": [
     {
       "company_name": "Tenax Therapeutics, Inc.",
@@ -8,6 +1219,7 @@
       "drug_name": "TNX-103",
       "event_id": "b9af07af75aa36748175d4975a997b6c25ba90a80bb6ea07ab2755ac878097cc",
       "event_type": "clinical_readout",
+      "exchange": "NASDAQ",
       "fact_summary": "The LEVEL study did not meet its primary endpoint.",
       "facts": [
         {
@@ -17,11 +1229,12 @@
         }
       ],
       "published_at": "2026-08-10T11:00:00Z",
-      "retrieved_at": "2026-09-10T08:11:23.102157Z",
+      "retrieved_at": "2026-09-10T08:45:07.044901Z",
       "review_status": "approved",
       "source_url": "https://investors.tenaxthera.com/news-releases/news-release-details/tenax-therapeutics-announces-topline-results-phase-3-level",
       "stage": "Phase 3",
-      "ticker": "TENX",
+      "symbol": "TENX",
+      "ticker": "NASDAQ:TENX",
       "trial_id": "NCT05983250",
       "unknowns": [
         "The future regulatory path is not established by this fixture."
@@ -34,6 +1247,7 @@
       "drug_name": "LN-145",
       "event_id": "33ec92fec793b2259017e893c6bfaf0409dbbbdd35ce65b5970d2518df30faf0",
       "event_type": "clinical_trial_status",
+      "exchange": "NASDAQ",
       "fact_summary": "ClinicalTrials.gov lists NCT03108495 as terminated.",
       "facts": [
         {
@@ -43,11 +1257,12 @@
         }
       ],
       "published_at": "2026-07-01T00:00:00Z",
-      "retrieved_at": "2026-09-10T08:11:23.102157Z",
+      "retrieved_at": "2026-09-10T08:45:07.044901Z",
       "review_status": "approved",
       "source_url": "https://clinicaltrials.gov/study/NCT03108495",
       "stage": "Phase 2",
-      "ticker": "IOVA",
+      "symbol": "IOVA",
+      "ticker": "NASDAQ:IOVA",
       "trial_id": "NCT03108495",
       "unknowns": [
         "A terminated registry status alone does not establish commercial or price impact."
@@ -60,6 +1275,7 @@
       "drug_name": null,
       "event_id": "71d5a1668e5587d67753ebae16dd621ac674f9d7b570ae753e70c0c35a7b8010",
       "event_type": "financing",
+      "exchange": "NASDAQ",
       "fact_summary": "PDS Biotechnology filed an amendment to a senior secured promissory note.",
       "facts": [
         {
@@ -69,18 +1285,19 @@
         }
       ],
       "published_at": "2026-08-31T20:00:00Z",
-      "retrieved_at": "2026-09-10T08:11:23.102157Z",
+      "retrieved_at": "2026-09-10T08:45:07.044901Z",
       "review_status": "approved",
       "source_url": "https://www.sec.gov/Archives/edgar/data/1472091/000114036126035809/ef20081442_8k.htm",
       "stage": null,
-      "ticker": "PDSB",
+      "symbol": "PDSB",
+      "ticker": "NASDAQ:PDSB",
       "trial_id": null,
       "unknowns": [
         "This fixture does not calculate cash runway or dilution."
       ]
     }
   ],
-  "generated_at": "2026-09-10T08:11:23.102157Z",
+  "generated_at": "2026-09-10T08:45:07.044901Z",
   "mode": "fixture",
   "model": {
     "execution": "deterministic-schema-pipeline",
@@ -88,24 +1305,24 @@
     "primary": "gpt-5.6",
     "role": "backend_research"
   },
-  "run_id": "334f2f41a019cb87",
-  "schema_version": "1.0.0",
+  "run_id": "808084aa5fd1a2ac",
+  "schema_version": "2.0.0",
   "source_status": [
     {
       "item": "iova_trial_termination.json",
-      "retrieved_at": "2026-09-10T08:11:23.102157Z",
+      "retrieved_at": "2026-09-10T08:45:07.044901Z",
       "source": "fixture",
       "status": "ok"
     },
     {
       "item": "pdsb_financing.json",
-      "retrieved_at": "2026-09-10T08:11:23.102157Z",
+      "retrieved_at": "2026-09-10T08:45:07.044901Z",
       "source": "fixture",
       "status": "ok"
     },
     {
       "item": "tenx_clinical_readout.json",
-      "retrieved_at": "2026-09-10T08:11:23.102157Z",
+      "retrieved_at": "2026-09-10T08:45:07.044901Z",
       "source": "fixture",
       "status": "ok"
     }
@@ -120,9 +1337,9 @@
     "review_count": 0,
     "status": "ok",
     "tickers": [
-      "IOVA",
-      "PDSB",
-      "TENX"
+      "NASDAQ:IOVA",
+      "NASDAQ:PDSB",
+      "NASDAQ:TENX"
     ]
   }
 }

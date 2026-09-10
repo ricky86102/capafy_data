@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "NYSE:GSK",
     "GSK",
     "GSK plc",
     "GlaxoSmithKline",
@@ -11,6 +12,7 @@
   "company_name": "GSK plc",
   "company_url": "https://www.gsk.com",
   "context_notes": [],
+  "exchange": "NYSE",
   "focus_areas": [
     "疫苗",
     "呼吸疾病",
@@ -49,7 +51,7 @@
     }
   ],
   "profile_as_of": "2026-09-10",
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
@@ -62,7 +64,8 @@
     "GSK 有哪些重要產品或管線？",
     "GSK 最近有什麼事件？"
   ],
-  "ticker": "GSK",
+  "symbol": "GSK",
+  "ticker": "NYSE:GSK",
   "uncertainties": [
     "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
   ]

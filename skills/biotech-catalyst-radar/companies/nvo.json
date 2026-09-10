@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "NYSE:NVO",
     "NVO",
     "Novo Nordisk A/S",
     "Novo Nordisk",
@@ -11,6 +12,7 @@
   "company_name": "Novo Nordisk A/S",
   "company_url": "https://www.novonordisk.com",
   "context_notes": [],
+  "exchange": "NYSE",
   "focus_areas": [
     "糖尿病",
     "肥胖",
@@ -43,7 +45,7 @@
     }
   ],
   "profile_as_of": "2026-09-10",
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
@@ -56,7 +58,8 @@
     "NVO 有哪些重要產品或管線？",
     "NVO 最近有什麼事件？"
   ],
-  "ticker": "NVO",
+  "symbol": "NVO",
+  "ticker": "NYSE:NVO",
   "uncertainties": [
     "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
   ]

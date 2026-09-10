@@ -7,9 +7,9 @@
       "company_index": "skills/biotech-catalyst-radar/companies/index.json",
       "display_name": "Biotech Catalyst Radar",
       "latest": "skills/biotech-catalyst-radar/latest.json",
-      "schema_version": "1.0.0",
+      "schema_version": "2.0.0",
       "status": "skills/biotech-catalyst-radar/status.json",
-      "updated_at": "2026-09-10T08:11:23.102157Z"
+      "updated_at": "2026-09-10T08:45:07.044901Z"
     }
   }
 }

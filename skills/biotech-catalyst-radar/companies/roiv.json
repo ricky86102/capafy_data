@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "NASDAQ:ROIV",
     "ROIV",
     "Roivant Sciences Ltd.",
     "Roivant",
@@ -11,6 +12,7 @@
   "company_name": "Roivant Sciences Ltd.",
   "company_url": "https://roivant.com",
   "context_notes": [],
+  "exchange": "NASDAQ",
   "focus_areas": [
     "自體免疫",
     "心肺疾病",
@@ -42,7 +44,7 @@
     }
   ],
   "profile_as_of": "2026-09-10",
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
@@ -55,7 +57,8 @@
     "ROIV 有哪些重要產品或管線？",
     "ROIV 最近有什麼事件？"
   ],
-  "ticker": "ROIV",
+  "symbol": "ROIV",
+  "ticker": "NASDAQ:ROIV",
   "uncertainties": [
     "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
   ]

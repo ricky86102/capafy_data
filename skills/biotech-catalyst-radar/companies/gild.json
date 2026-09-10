@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "NASDAQ:GILD",
     "GILD",
     "Gilead Sciences, Inc.",
     "Gilead",
@@ -11,6 +12,7 @@
   "company_name": "Gilead Sciences, Inc.",
   "company_url": "https://www.gilead.com",
   "context_notes": [],
+  "exchange": "NASDAQ",
   "focus_areas": [
     "HIV",
     "病毒性肝炎",
@@ -43,7 +45,7 @@
     }
   ],
   "profile_as_of": "2026-09-10",
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
@@ -56,7 +58,8 @@
     "GILD 有哪些重要產品或管線？",
     "GILD 最近有什麼事件？"
   ],
-  "ticker": "GILD",
+  "symbol": "GILD",
+  "ticker": "NASDAQ:GILD",
   "uncertainties": [
     "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
   ]

@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "NASDAQ:BBIO",
     "BBIO",
     "BridgeBio Pharma, Inc.",
     "BridgeBio Pharma",
@@ -12,6 +13,7 @@
   "company_name": "BridgeBio Pharma, Inc.",
   "company_url": "https://bridgebio.com",
   "context_notes": [],
+  "exchange": "NASDAQ",
   "focus_areas": [
     "遺傳疾病",
     "ATTR 心肌病",
@@ -43,7 +45,7 @@
     }
   ],
   "profile_as_of": "2026-09-10",
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
@@ -56,7 +58,8 @@
     "BBIO 有哪些重要產品或管線？",
     "BBIO 最近有什麼事件？"
   ],
-  "ticker": "BBIO",
+  "symbol": "BBIO",
+  "ticker": "NASDAQ:BBIO",
   "uncertainties": [
     "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
   ]

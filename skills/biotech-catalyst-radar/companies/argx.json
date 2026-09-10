@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "NASDAQ:ARGX",
     "ARGX",
     "argenx SE",
     "argenx",
@@ -11,6 +12,7 @@
   "company_name": "argenx SE",
   "company_url": "https://argenx.com",
   "context_notes": [],
+  "exchange": "NASDAQ",
   "focus_areas": [
     "自體免疫",
     "神經肌肉疾病",
@@ -41,7 +43,7 @@
     }
   ],
   "profile_as_of": "2026-09-10",
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
@@ -54,7 +56,8 @@
     "ARGX 有哪些重要產品或管線？",
     "ARGX 最近有什麼事件？"
   ],
-  "ticker": "ARGX",
+  "symbol": "ARGX",
+  "ticker": "NASDAQ:ARGX",
   "uncertainties": [
     "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
   ]

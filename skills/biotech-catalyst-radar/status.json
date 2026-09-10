@@ -1,11 +1,20 @@
 {
   "as_of": "2026-09-10",
   "company_count": 50,
+  "company_coverage": {
+    "checked_companies": 50,
+    "degraded": 0,
+    "expected_companies": 50,
+    "listed_companies": 50,
+    "material_updates": 0,
+    "no_material_updates": 50,
+    "not_checked": 0
+  },
   "company_index": "skills/biotech-catalyst-radar/companies/index.json",
   "event_count": 3,
   "latest": "skills/biotech-catalyst-radar/latest.json",
   "mode": "fixture",
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
   "slug": "biotech-catalyst-radar",
-  "updated_at": "2026-09-10T08:11:23.102157Z"
+  "updated_at": "2026-09-10T08:45:07.044901Z"
 }

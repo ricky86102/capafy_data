@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "NASDAQ:JAZZ",
     "JAZZ",
     "Jazz Pharmaceuticals plc",
     "Jazz Pharmaceuticals",
@@ -12,6 +13,7 @@
   "company_name": "Jazz Pharmaceuticals plc",
   "company_url": "https://www.jazzpharma.com",
   "context_notes": [],
+  "exchange": "NASDAQ",
   "focus_areas": [
     "睡眠疾病",
     "神經",
@@ -44,7 +46,7 @@
     }
   ],
   "profile_as_of": "2026-09-10",
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
@@ -57,7 +59,8 @@
     "JAZZ 有哪些重要產品或管線？",
     "JAZZ 最近有什麼事件？"
   ],
-  "ticker": "JAZZ",
+  "symbol": "JAZZ",
+  "ticker": "NASDAQ:JAZZ",
   "uncertainties": [
     "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
   ]

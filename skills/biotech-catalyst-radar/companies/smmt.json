@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "NASDAQ:SMMT",
     "SMMT",
     "Summit Therapeutics Inc.",
     "Summit Therapeutics",
@@ -12,6 +13,7 @@
   "company_name": "Summit Therapeutics Inc.",
   "company_url": "https://www.smmttx.com",
   "context_notes": [],
+  "exchange": "NASDAQ",
   "focus_areas": [
     "肺癌",
     "大腸直腸癌",
@@ -29,7 +31,7 @@
     }
   ],
   "profile_as_of": "2026-09-10",
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
@@ -42,7 +44,8 @@
     "SMMT 有哪些重要產品或管線？",
     "SMMT 最近有什麼事件？"
   ],
-  "ticker": "SMMT",
+  "symbol": "SMMT",
+  "ticker": "NASDAQ:SMMT",
   "uncertainties": [
     "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
   ]

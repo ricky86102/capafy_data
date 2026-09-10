@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "NASDAQ:SNY",
     "SNY",
     "Sanofi",
     "賽諾菲"
@@ -10,6 +11,7 @@
   "company_name": "Sanofi",
   "company_url": "https://www.sanofi.com",
   "context_notes": [],
+  "exchange": "NASDAQ",
   "focus_areas": [
     "免疫發炎",
     "罕見疾病",
@@ -44,7 +46,7 @@
     }
   ],
   "profile_as_of": "2026-09-10",
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
@@ -57,7 +59,8 @@
     "SNY 有哪些重要產品或管線？",
     "SNY 最近有什麼事件？"
   ],
-  "ticker": "SNY",
+  "symbol": "SNY",
+  "ticker": "NASDAQ:SNY",
   "uncertainties": [
     "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
   ]

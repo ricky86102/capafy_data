@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "NASDAQ:ARWR",
     "ARWR",
     "Arrowhead Pharmaceuticals, Inc.",
     "Arrowhead Pharmaceuticals",
@@ -12,6 +13,7 @@
   "company_name": "Arrowhead Pharmaceuticals, Inc.",
   "company_url": "https://arrowheadpharma.com",
   "context_notes": [],
+  "exchange": "NASDAQ",
   "focus_areas": [
     "RNAi",
     "心代謝",
@@ -44,7 +46,7 @@
     }
   ],
   "profile_as_of": "2026-09-10",
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
@@ -57,7 +59,8 @@
     "ARWR 有哪些重要產品或管線？",
     "ARWR 最近有什麼事件？"
   ],
-  "ticker": "ARWR",
+  "symbol": "ARWR",
+  "ticker": "NASDAQ:ARWR",
   "uncertainties": [
     "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
   ]

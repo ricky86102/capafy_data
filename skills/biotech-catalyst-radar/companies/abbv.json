@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "NYSE:ABBV",
     "ABBV",
     "AbbVie Inc.",
     "AbbVie",
@@ -11,6 +12,7 @@
   "company_name": "AbbVie Inc.",
   "company_url": "https://www.abbvie.com",
   "context_notes": [],
+  "exchange": "NYSE",
   "focus_areas": [
     "免疫",
     "血液腫瘤",
@@ -43,7 +45,7 @@
     }
   ],
   "profile_as_of": "2026-09-10",
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
@@ -56,7 +58,8 @@
     "ABBV 有哪些重要產品或管線？",
     "ABBV 最近有什麼事件？"
   ],
-  "ticker": "ABBV",
+  "symbol": "ABBV",
+  "ticker": "NYSE:ABBV",
   "uncertainties": [
     "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
   ]

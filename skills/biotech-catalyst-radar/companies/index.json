@@ -2,6 +2,7 @@
   "companies": [
     {
       "aliases": [
+        "NYSE:LLY",
         "LLY",
         "Eli Lilly and Company",
         "Eli Lilly",
@@ -11,6 +12,7 @@
       "business_focus": "以糖尿病、肥胖等心代謝疾病為核心，並布局腫瘤、免疫與神經疾病藥物。",
       "company_id": "sec-0000059478",
       "company_name": "Eli Lilly and Company",
+      "exchange": "NYSE",
       "market_cap_rank": 1,
       "profile_path": "companies/lly.json",
       "suggested_questions": [
@@ -18,10 +20,12 @@
         "LLY 有哪些重要產品或管線？",
         "LLY 最近有什麼事件？"
       ],
-      "ticker": "LLY"
+      "symbol": "LLY",
+      "ticker": "NYSE:LLY"
     },
     {
       "aliases": [
+        "NYSE:JNJ",
         "JNJ",
         "Johnson & Johnson",
         "J&J",
@@ -31,6 +35,7 @@
       "business_focus": "同時經營創新藥與醫療科技；藥品重點涵蓋腫瘤、免疫、神經、肺高壓與心血管代謝。",
       "company_id": "sec-0000200406",
       "company_name": "Johnson & Johnson",
+      "exchange": "NYSE",
       "market_cap_rank": 2,
       "profile_path": "companies/jnj.json",
       "suggested_questions": [
@@ -38,10 +43,12 @@
         "JNJ 有哪些重要產品或管線？",
         "JNJ 最近有什麼事件？"
       ],
-      "ticker": "JNJ"
+      "symbol": "JNJ",
+      "ticker": "NYSE:JNJ"
     },
     {
       "aliases": [
+        "NYSE:ABBV",
         "ABBV",
         "AbbVie Inc.",
         "AbbVie",
@@ -50,6 +57,7 @@
       "business_focus": "以免疫疾病與血液腫瘤藥物為主，另有神經科學、眼科與醫美產品組合。",
       "company_id": "sec-0001551152",
       "company_name": "AbbVie Inc.",
+      "exchange": "NYSE",
       "market_cap_rank": 3,
       "profile_path": "companies/abbv.json",
       "suggested_questions": [
@@ -57,10 +65,12 @@
         "ABBV 有哪些重要產品或管線？",
         "ABBV 最近有什麼事件？"
       ],
-      "ticker": "ABBV"
+      "symbol": "ABBV",
+      "ticker": "NYSE:ABBV"
     },
     {
       "aliases": [
+        "NYSE:MRK",
         "MRK",
         "Merck & Co., Inc.",
         "Merck",
@@ -71,6 +81,7 @@
       "business_focus": "以腫瘤藥物與疫苗為主要支柱，另涵蓋心肺、感染症與動物保健。",
       "company_id": "sec-0000310158",
       "company_name": "Merck & Co., Inc.",
+      "exchange": "NYSE",
       "market_cap_rank": 4,
       "profile_path": "companies/mrk.json",
       "suggested_questions": [
@@ -78,10 +89,12 @@
         "MRK 有哪些重要產品或管線？",
         "MRK 最近有什麼事件？"
       ],
-      "ticker": "MRK"
+      "symbol": "MRK",
+      "ticker": "NYSE:MRK"
     },
     {
       "aliases": [
+        "NYSE:NVS",
         "NVS",
         "Novartis AG",
         "Novartis",
@@ -90,6 +103,7 @@
       "business_focus": "聚焦心血管腎臟代謝、免疫、神經、腫瘤與血液疾病的創新藥。",
       "company_id": "sec-0001114448",
       "company_name": "Novartis AG",
+      "exchange": "NYSE",
       "market_cap_rank": 5,
       "profile_path": "companies/nvs.json",
       "suggested_questions": [
@@ -97,10 +111,12 @@
         "NVS 有哪些重要產品或管線？",
         "NVS 最近有什麼事件？"
       ],
-      "ticker": "NVS"
+      "symbol": "NVS",
+      "ticker": "NYSE:NVS"
     },
     {
       "aliases": [
+        "NYSE:AZN",
         "AZN",
         "AstraZeneca PLC",
         "AstraZeneca",
@@ -109,6 +125,7 @@
       "business_focus": "研發處方藥，核心領域是腫瘤、心血管腎臟代謝、呼吸免疫、疫苗與罕見疾病。",
       "company_id": "sec-0000901832",
       "company_name": "AstraZeneca PLC",
+      "exchange": "NYSE",
       "market_cap_rank": 6,
       "profile_path": "companies/azn.json",
       "suggested_questions": [
@@ -116,10 +133,12 @@
         "AZN 有哪些重要產品或管線？",
         "AZN 最近有什麼事件？"
       ],
-      "ticker": "AZN"
+      "symbol": "AZN",
+      "ticker": "NYSE:AZN"
     },
     {
       "aliases": [
+        "NASDAQ:AMGN",
         "AMGN",
         "Amgen Inc.",
         "Amgen",
@@ -128,6 +147,7 @@
       "business_focus": "大型生物製藥公司，產品跨免疫、骨質疏鬆、心血管、腫瘤與罕見疾病。",
       "company_id": "sec-0000318154",
       "company_name": "Amgen Inc.",
+      "exchange": "NASDAQ",
       "market_cap_rank": 7,
       "profile_path": "companies/amgn.json",
       "suggested_questions": [
@@ -135,10 +155,12 @@
         "AMGN 有哪些重要產品或管線？",
         "AMGN 最近有什麼事件？"
       ],
-      "ticker": "AMGN"
+      "symbol": "AMGN",
+      "ticker": "NASDAQ:AMGN"
     },
     {
       "aliases": [
+        "NYSE:NVO",
         "NVO",
         "Novo Nordisk A/S",
         "Novo Nordisk",
@@ -147,6 +169,7 @@
       "business_focus": "主要經營糖尿病與肥胖治療，並涵蓋罕見血液及內分泌疾病。",
       "company_id": "sec-0000353278",
       "company_name": "Novo Nordisk A/S",
+      "exchange": "NYSE",
       "market_cap_rank": 8,
       "profile_path": "companies/nvo.json",
       "suggested_questions": [
@@ -154,10 +177,12 @@
         "NVO 有哪些重要產品或管線？",
         "NVO 最近有什麼事件？"
       ],
-      "ticker": "NVO"
+      "symbol": "NVO",
+      "ticker": "NYSE:NVO"
     },
     {
       "aliases": [
+        "NASDAQ:GILD",
         "GILD",
         "Gilead Sciences, Inc.",
         "Gilead",
@@ -166,6 +191,7 @@
       "business_focus": "以 HIV 與病毒性肝炎抗病毒藥為根基，並擴展至細胞治療與腫瘤藥物。",
       "company_id": "sec-0000882095",
       "company_name": "Gilead Sciences, Inc.",
+      "exchange": "NASDAQ",
       "market_cap_rank": 9,
       "profile_path": "companies/gild.json",
       "suggested_questions": [
@@ -173,10 +199,12 @@
         "GILD 有哪些重要產品或管線？",
         "GILD 最近有什麼事件？"
       ],
-      "ticker": "GILD"
+      "symbol": "GILD",
+      "ticker": "NASDAQ:GILD"
     },
     {
       "aliases": [
+        "NYSE:PFE",
         "PFE",
         "Pfizer Inc.",
         "Pfizer",
@@ -185,6 +213,7 @@
       "business_focus": "大型綜合生物製藥公司，業務涵蓋疫苗、內科、免疫、罕見疾病、感染症與腫瘤。",
       "company_id": "sec-0000078003",
       "company_name": "Pfizer Inc.",
+      "exchange": "NYSE",
       "market_cap_rank": 10,
       "profile_path": "companies/pfe.json",
       "suggested_questions": [
@@ -193,10 +222,12 @@
         "威而鋼和今天的 Pfizer 業務有什麼關係？",
         "PFE 最近有什麼事件？"
       ],
-      "ticker": "PFE"
+      "symbol": "PFE",
+      "ticker": "NYSE:PFE"
     },
     {
       "aliases": [
+        "NASDAQ:VRTX",
         "VRTX",
         "Vertex Pharmaceuticals Incorporated",
         "Vertex",
@@ -206,6 +237,7 @@
       "business_focus": "以囊性纖維化專科藥物為核心，並拓展鐮刀型紅血球疾病、地中海型貧血、急性疼痛與腎臟疾病。",
       "company_id": "sec-0000875320",
       "company_name": "Vertex Pharmaceuticals Incorporated",
+      "exchange": "NASDAQ",
       "market_cap_rank": 11,
       "profile_path": "companies/vrtx.json",
       "suggested_questions": [
@@ -213,10 +245,12 @@
         "VRTX 有哪些重要產品或管線？",
         "VRTX 最近有什麼事件？"
       ],
-      "ticker": "VRTX"
+      "symbol": "VRTX",
+      "ticker": "NASDAQ:VRTX"
     },
     {
       "aliases": [
+        "NYSE:BMY",
         "BMY",
         "Bristol-Myers Squibb Company",
         "Bristol Myers Squibb",
@@ -226,6 +260,7 @@
       "business_focus": "主要經營腫瘤、血液、免疫、心血管與神經疾病藥物。",
       "company_id": "sec-0000014272",
       "company_name": "Bristol-Myers Squibb Company",
+      "exchange": "NYSE",
       "market_cap_rank": 12,
       "profile_path": "companies/bmy.json",
       "suggested_questions": [
@@ -233,10 +268,12 @@
         "BMY 有哪些重要產品或管線？",
         "BMY 最近有什麼事件？"
       ],
-      "ticker": "BMY"
+      "symbol": "BMY",
+      "ticker": "NYSE:BMY"
     },
     {
       "aliases": [
+        "NASDAQ:SNY",
         "SNY",
         "Sanofi",
         "賽諾菲"
@@ -244,6 +281,7 @@
       "business_focus": "聚焦免疫發炎、罕見疾病、神經、腫瘤與多類疫苗。",
       "company_id": "sec-0001121404",
       "company_name": "Sanofi",
+      "exchange": "NASDAQ",
       "market_cap_rank": 13,
       "profile_path": "companies/sny.json",
       "suggested_questions": [
@@ -251,10 +289,12 @@
         "SNY 有哪些重要產品或管線？",
         "SNY 最近有什麼事件？"
       ],
-      "ticker": "SNY"
+      "symbol": "SNY",
+      "ticker": "NASDAQ:SNY"
     },
     {
       "aliases": [
+        "NYSE:GSK",
         "GSK",
         "GSK plc",
         "GlaxoSmithKline",
@@ -263,6 +303,7 @@
       "business_focus": "以疫苗、專科藥與一般藥品為三大支柱，涵蓋呼吸、免疫、感染症與腫瘤。",
       "company_id": "sec-0001131399",
       "company_name": "GSK plc",
+      "exchange": "NYSE",
       "market_cap_rank": 14,
       "profile_path": "companies/gsk.json",
       "suggested_questions": [
@@ -270,10 +311,12 @@
         "GSK 有哪些重要產品或管線？",
         "GSK 最近有什麼事件？"
       ],
-      "ticker": "GSK"
+      "symbol": "GSK",
+      "ticker": "NYSE:GSK"
     },
     {
       "aliases": [
+        "NASDAQ:REGN",
         "REGN",
         "Regeneron Pharmaceuticals, Inc.",
         "Regeneron",
@@ -282,6 +325,7 @@
       "business_focus": "以抗體藥物為主，重點在眼科、過敏發炎、腫瘤、心血管代謝與罕見疾病。",
       "company_id": "sec-0000872589",
       "company_name": "Regeneron Pharmaceuticals, Inc.",
+      "exchange": "NASDAQ",
       "market_cap_rank": 15,
       "profile_path": "companies/regn.json",
       "suggested_questions": [
@@ -289,10 +333,12 @@
         "REGN 有哪些重要產品或管線？",
         "REGN 最近有什麼事件？"
       ],
-      "ticker": "REGN"
+      "symbol": "REGN",
+      "ticker": "NASDAQ:REGN"
     },
     {
       "aliases": [
+        "NASDAQ:ARGX",
         "ARGX",
         "argenx SE",
         "argenx",
@@ -301,6 +347,7 @@
       "business_focus": "專注以 FcRn 等抗體機制治療重症自體免疫疾病。",
       "company_id": "sec-0001697862",
       "company_name": "argenx SE",
+      "exchange": "NASDAQ",
       "market_cap_rank": 16,
       "profile_path": "companies/argx.json",
       "suggested_questions": [
@@ -308,10 +355,12 @@
         "ARGX 有哪些重要產品或管線？",
         "ARGX 最近有什麼事件？"
       ],
-      "ticker": "ARGX"
+      "symbol": "ARGX",
+      "ticker": "NASDAQ:ARGX"
     },
     {
       "aliases": [
+        "NYSE:TAK",
         "TAK",
         "Takeda Pharmaceutical Company Limited",
         "Takeda",
@@ -321,6 +370,7 @@
       "business_focus": "全球綜合藥廠，核心領域包括腸胃、罕見疾病、血漿製品、腫瘤、疫苗與神經科學。",
       "company_id": "sec-0001395064",
       "company_name": "Takeda Pharmaceutical Company Limited",
+      "exchange": "NYSE",
       "market_cap_rank": 17,
       "profile_path": "companies/tak.json",
       "suggested_questions": [
@@ -328,10 +378,12 @@
         "TAK 有哪些重要產品或管線？",
         "TAK 最近有什麼事件？"
       ],
-      "ticker": "TAK"
+      "symbol": "TAK",
+      "ticker": "NYSE:TAK"
     },
     {
       "aliases": [
+        "NASDAQ:MRNA",
         "MRNA",
         "Moderna, Inc.",
         "Moderna",
@@ -340,6 +392,7 @@
       "business_focus": "以 mRNA 平台開發呼吸道疫苗，並延伸至癌症免疫治療、潛伏病毒與罕見疾病。",
       "company_id": "sec-0001682852",
       "company_name": "Moderna, Inc.",
+      "exchange": "NASDAQ",
       "market_cap_rank": 18,
       "profile_path": "companies/mrna.json",
       "suggested_questions": [
@@ -347,10 +400,12 @@
         "MRNA 有哪些重要產品或管線？",
         "MRNA 最近有什麼事件？"
       ],
-      "ticker": "MRNA"
+      "symbol": "MRNA",
+      "ticker": "NASDAQ:MRNA"
     },
     {
       "aliases": [
+        "NASDAQ:RVMD",
         "RVMD",
         "Revolution Medicines, Inc.",
         "Revolution Medicines",
@@ -359,6 +414,7 @@
       "business_focus": "臨床階段精準腫瘤公司，專攻 RAS 驅動癌症與 RAS(ON) 抑制劑。",
       "company_id": "sec-0001628171",
       "company_name": "Revolution Medicines, Inc.",
+      "exchange": "NASDAQ",
       "market_cap_rank": 19,
       "profile_path": "companies/rvmd.json",
       "suggested_questions": [
@@ -366,10 +422,12 @@
         "RVMD 有哪些重要產品或管線？",
         "RVMD 最近有什麼事件？"
       ],
-      "ticker": "RVMD"
+      "symbol": "RVMD",
+      "ticker": "NASDAQ:RVMD"
     },
     {
       "aliases": [
+        "NYSE:TEVA",
         "TEVA",
         "Teva Pharmaceutical Industries Limited",
         "Teva",
@@ -378,6 +436,7 @@
       "business_focus": "以學名藥為主要業務，並經營中樞神經、呼吸與腫瘤等品牌藥及原料藥。",
       "company_id": "sec-0000818686",
       "company_name": "Teva Pharmaceutical Industries Limited",
+      "exchange": "NYSE",
       "market_cap_rank": 20,
       "profile_path": "companies/teva.json",
       "suggested_questions": [
@@ -385,10 +444,12 @@
         "TEVA 有哪些重要產品或管線？",
         "TEVA 最近有什麼事件？"
       ],
-      "ticker": "TEVA"
+      "symbol": "TEVA",
+      "ticker": "NYSE:TEVA"
     },
     {
       "aliases": [
+        "NYSE:HLN",
         "HLN",
         "Haleon plc",
         "Haleon",
@@ -397,6 +458,7 @@
       "business_focus": "消費保健公司，主力是口腔保健、維生素補充品、止痛、呼吸與消化道非處方產品。",
       "company_id": "sec-0001900304",
       "company_name": "Haleon plc",
+      "exchange": "NYSE",
       "market_cap_rank": 21,
       "profile_path": "companies/hln.json",
       "suggested_questions": [
@@ -404,10 +466,12 @@
         "HLN 有哪些重要產品或管線？",
         "HLN 最近有什麼事件？"
       ],
-      "ticker": "HLN"
+      "symbol": "HLN",
+      "ticker": "NYSE:HLN"
     },
     {
       "aliases": [
+        "NASDAQ:ONC",
         "ONC",
         "BeOne Medicines AG",
         "BeOne Medicines",
@@ -417,6 +481,7 @@
       "business_focus": "專注腫瘤藥物，兼具商業化血液癌與實體瘤產品及廣泛臨床管線。",
       "company_id": "sec-0001651308",
       "company_name": "BeOne Medicines AG",
+      "exchange": "NASDAQ",
       "market_cap_rank": 22,
       "profile_path": "companies/onc.json",
       "suggested_questions": [
@@ -424,10 +489,12 @@
         "ONC 有哪些重要產品或管線？",
         "ONC 最近有什麼事件？"
       ],
-      "ticker": "ONC"
+      "symbol": "ONC",
+      "ticker": "NASDAQ:ONC"
     },
     {
       "aliases": [
+        "NASDAQ:RPRX",
         "RPRX",
         "Royalty Pharma plc",
         "Royalty Pharma",
@@ -436,6 +503,7 @@
       "business_focus": "透過購買藥品權利金與提供研發資金參與生物製藥，不是傳統自行研發製造的藥廠。",
       "company_id": "sec-0001802768",
       "company_name": "Royalty Pharma plc",
+      "exchange": "NASDAQ",
       "market_cap_rank": 23,
       "profile_path": "companies/rprx.json",
       "suggested_questions": [
@@ -443,10 +511,12 @@
         "RPRX 有哪些重要產品或管線？",
         "RPRX 最近有什麼事件？"
       ],
-      "ticker": "RPRX"
+      "symbol": "RPRX",
+      "ticker": "NASDAQ:RPRX"
     },
     {
       "aliases": [
+        "NASDAQ:ALNY",
         "ALNY",
         "Alnylam Pharmaceuticals, Inc.",
         "Alnylam",
@@ -455,6 +525,7 @@
       "business_focus": "RNA 干擾療法先驅，產品與管線聚焦澱粉樣變性、血液、代謝、肝臟及罕見疾病。",
       "company_id": "sec-0001178670",
       "company_name": "Alnylam Pharmaceuticals, Inc.",
+      "exchange": "NASDAQ",
       "market_cap_rank": 24,
       "profile_path": "companies/alny.json",
       "suggested_questions": [
@@ -462,10 +533,12 @@
         "ALNY 有哪些重要產品或管線？",
         "ALNY 最近有什麼事件？"
       ],
-      "ticker": "ALNY"
+      "symbol": "ALNY",
+      "ticker": "NASDAQ:ALNY"
     },
     {
       "aliases": [
+        "NASDAQ:BIIB",
         "BIIB",
         "Biogen Inc.",
         "Biogen",
@@ -474,6 +547,7 @@
       "business_focus": "神經科學與罕見神經疾病公司，重點涵蓋多發性硬化、阿茲海默症與神經肌肉疾病。",
       "company_id": "sec-0000875045",
       "company_name": "Biogen Inc.",
+      "exchange": "NASDAQ",
       "market_cap_rank": 25,
       "profile_path": "companies/biib.json",
       "suggested_questions": [
@@ -481,10 +555,12 @@
         "BIIB 有哪些重要產品或管線？",
         "BIIB 最近有什麼事件？"
       ],
-      "ticker": "BIIB"
+      "symbol": "BIIB",
+      "ticker": "NASDAQ:BIIB"
     },
     {
       "aliases": [
+        "NYSE:ZTS",
         "ZTS",
         "Zoetis Inc.",
         "Zoetis",
@@ -493,6 +569,7 @@
       "business_focus": "動物保健公司，為伴侶動物與畜牧動物提供藥品、疫苗、診斷與精準健康方案。",
       "company_id": "sec-0001555280",
       "company_name": "Zoetis Inc.",
+      "exchange": "NYSE",
       "market_cap_rank": 26,
       "profile_path": "companies/zts.json",
       "suggested_questions": [
@@ -500,10 +577,12 @@
         "ZTS 有哪些重要產品或管線？",
         "ZTS 最近有什麼事件？"
       ],
-      "ticker": "ZTS"
+      "symbol": "ZTS",
+      "ticker": "NYSE:ZTS"
     },
     {
       "aliases": [
+        "NASDAQ:ROIV",
         "ROIV",
         "Roivant Sciences Ltd.",
         "Roivant",
@@ -512,6 +591,7 @@
       "business_focus": "臨床階段生物製藥平台，聚焦自體免疫與心肺疾病，並透過多個子公司推進候選藥物。",
       "company_id": "sec-0001635088",
       "company_name": "Roivant Sciences Ltd.",
+      "exchange": "NASDAQ",
       "market_cap_rank": 27,
       "profile_path": "companies/roiv.json",
       "suggested_questions": [
@@ -519,10 +599,12 @@
         "ROIV 有哪些重要產品或管線？",
         "ROIV 最近有什麼事件？"
       ],
-      "ticker": "ROIV"
+      "symbol": "ROIV",
+      "ticker": "NASDAQ:ROIV"
     },
     {
       "aliases": [
+        "NASDAQ:INSM",
         "INSM",
         "Insmed Incorporated",
         "Insmed",
@@ -531,6 +613,7 @@
       "business_focus": "開發嚴重與罕見疾病療法，主軸為罕見肺部感染、支氣管擴張與肺高壓。",
       "company_id": "sec-0001104506",
       "company_name": "Insmed Incorporated",
+      "exchange": "NASDAQ",
       "market_cap_rank": 28,
       "profile_path": "companies/insm.json",
       "suggested_questions": [
@@ -538,10 +621,12 @@
         "INSM 有哪些重要產品或管線？",
         "INSM 最近有什麼事件？"
       ],
-      "ticker": "INSM"
+      "symbol": "INSM",
+      "ticker": "NASDAQ:INSM"
     },
     {
       "aliases": [
+        "NASDAQ:INCY",
         "INCY",
         "Incyte Corporation",
         "Incyte",
@@ -550,6 +635,7 @@
       "business_focus": "以血液腫瘤、實體瘤與發炎性皮膚疾病為主的生物製藥公司。",
       "company_id": "sec-0000879169",
       "company_name": "Incyte Corporation",
+      "exchange": "NASDAQ",
       "market_cap_rank": 29,
       "profile_path": "companies/incy.json",
       "suggested_questions": [
@@ -557,10 +643,12 @@
         "INCY 有哪些重要產品或管線？",
         "INCY 最近有什麼事件？"
       ],
-      "ticker": "INCY"
+      "symbol": "INCY",
+      "ticker": "NASDAQ:INCY"
     },
     {
       "aliases": [
+        "NASDAQ:BNTX",
         "BNTX",
         "BioNTech SE",
         "BioNTech",
@@ -569,6 +657,7 @@
       "business_focus": "以 mRNA 與免疫療法平台開發疫苗及癌症治療，現有商業產品以 COVID-19 疫苗為主。",
       "company_id": "sec-0001776985",
       "company_name": "BioNTech SE",
+      "exchange": "NASDAQ",
       "market_cap_rank": 30,
       "profile_path": "companies/bntx.json",
       "suggested_questions": [
@@ -576,10 +665,12 @@
         "BNTX 有哪些重要產品或管線？",
         "BNTX 最近有什麼事件？"
       ],
-      "ticker": "BNTX"
+      "symbol": "BNTX",
+      "ticker": "NASDAQ:BNTX"
     },
     {
       "aliases": [
+        "NASDAQ:UTHR",
         "UTHR",
         "United Therapeutics Corporation",
         "United Therapeutics",
@@ -588,6 +679,7 @@
       "business_focus": "專注肺動脈高壓等重症心肺疾病，並開發異種移植與再生醫療器官產品。",
       "company_id": "sec-0001082554",
       "company_name": "United Therapeutics Corporation",
+      "exchange": "NASDAQ",
       "market_cap_rank": 31,
       "profile_path": "companies/uthr.json",
       "suggested_questions": [
@@ -595,10 +687,12 @@
         "UTHR 有哪些重要產品或管線？",
         "UTHR 最近有什麼事件？"
       ],
-      "ticker": "UTHR"
+      "symbol": "UTHR",
+      "ticker": "NASDAQ:UTHR"
     },
     {
       "aliases": [
+        "NASDAQ:VTRS",
         "VTRS",
         "Viatris Inc.",
         "Viatris",
@@ -607,6 +701,7 @@
       "business_focus": "全球品牌藥、學名藥、複雜學名藥與生物相似藥供應商，治療領域十分廣泛。",
       "company_id": "sec-0001792044",
       "company_name": "Viatris Inc.",
+      "exchange": "NASDAQ",
       "market_cap_rank": 32,
       "profile_path": "companies/vtrs.json",
       "suggested_questions": [
@@ -614,10 +709,12 @@
         "VTRS 有哪些重要產品或管線？",
         "VTRS 最近有什麼事件？"
       ],
-      "ticker": "VTRS"
+      "symbol": "VTRS",
+      "ticker": "NASDAQ:VTRS"
     },
     {
       "aliases": [
+        "NASDAQ:ASND",
         "ASND",
         "Ascendis Pharma A/S",
         "Ascendis Pharma",
@@ -627,6 +724,7 @@
       "business_focus": "以 TransCon 長效技術平台開發內分泌罕見疾病與腫瘤療法。",
       "company_id": "sec-0001612042",
       "company_name": "Ascendis Pharma A/S",
+      "exchange": "NASDAQ",
       "market_cap_rank": 33,
       "profile_path": "companies/asnd.json",
       "suggested_questions": [
@@ -634,10 +732,12 @@
         "ASND 有哪些重要產品或管線？",
         "ASND 最近有什麼事件？"
       ],
-      "ticker": "ASND"
+      "symbol": "ASND",
+      "ticker": "NASDAQ:ASND"
     },
     {
       "aliases": [
+        "NASDAQ:NBIX",
         "NBIX",
         "Neurocrine Biosciences, Inc.",
         "Neurocrine Biosciences",
@@ -647,6 +747,7 @@
       "business_focus": "研發神經、精神、內分泌與免疫疾病藥物，以運動障礙及神經精神疾病為重點。",
       "company_id": "sec-0000914475",
       "company_name": "Neurocrine Biosciences, Inc.",
+      "exchange": "NASDAQ",
       "market_cap_rank": 34,
       "profile_path": "companies/nbix.json",
       "suggested_questions": [
@@ -654,10 +755,12 @@
         "NBIX 有哪些重要產品或管線？",
         "NBIX 最近有什麼事件？"
       ],
-      "ticker": "NBIX"
+      "symbol": "NBIX",
+      "ticker": "NASDAQ:NBIX"
     },
     {
       "aliases": [
+        "NASDAQ:JAZZ",
         "JAZZ",
         "Jazz Pharmaceuticals plc",
         "Jazz Pharmaceuticals",
@@ -667,6 +770,7 @@
       "business_focus": "聚焦睡眠與神經疾病、癲癇，以及血液癌和實體瘤等腫瘤產品。",
       "company_id": "sec-0001232524",
       "company_name": "Jazz Pharmaceuticals plc",
+      "exchange": "NASDAQ",
       "market_cap_rank": 35,
       "profile_path": "companies/jazz.json",
       "suggested_questions": [
@@ -674,10 +778,12 @@
         "JAZZ 有哪些重要產品或管線？",
         "JAZZ 最近有什麼事件？"
       ],
-      "ticker": "JAZZ"
+      "symbol": "JAZZ",
+      "ticker": "NASDAQ:JAZZ"
     },
     {
       "aliases": [
+        "NASDAQ:BBIO",
         "BBIO",
         "BridgeBio Pharma, Inc.",
         "BridgeBio Pharma",
@@ -687,6 +793,7 @@
       "business_focus": "專注遺傳疾病，以小分子、酵素替代與基因治療開發罕見病藥物。",
       "company_id": "sec-0001743881",
       "company_name": "BridgeBio Pharma, Inc.",
+      "exchange": "NASDAQ",
       "market_cap_rank": 36,
       "profile_path": "companies/bbio.json",
       "suggested_questions": [
@@ -694,10 +801,12 @@
         "BBIO 有哪些重要產品或管線？",
         "BBIO 最近有什麼事件？"
       ],
-      "ticker": "BBIO"
+      "symbol": "BBIO",
+      "ticker": "NASDAQ:BBIO"
     },
     {
       "aliases": [
+        "NASDAQ:EXEL",
         "EXEL",
         "Exelixis, Inc.",
         "Exelixis",
@@ -706,6 +815,7 @@
       "business_focus": "專注難治型癌症的標靶藥物與新型抗體藥物開發。",
       "company_id": "sec-0000939767",
       "company_name": "Exelixis, Inc.",
+      "exchange": "NASDAQ",
       "market_cap_rank": 37,
       "profile_path": "companies/exel.json",
       "suggested_questions": [
@@ -713,10 +823,12 @@
         "EXEL 有哪些重要產品或管線？",
         "EXEL 最近有什麼事件？"
       ],
-      "ticker": "EXEL"
+      "symbol": "EXEL",
+      "ticker": "NASDAQ:EXEL"
     },
     {
       "aliases": [
+        "NASDAQ:SMMT",
         "SMMT",
         "Summit Therapeutics Inc.",
         "Summit Therapeutics",
@@ -726,6 +838,7 @@
       "business_focus": "臨床階段腫瘤公司，核心資產是同時作用於 PD-1 與 VEGF 的雙特異性抗體 ivonescimab。",
       "company_id": "sec-0001599298",
       "company_name": "Summit Therapeutics Inc.",
+      "exchange": "NASDAQ",
       "market_cap_rank": 38,
       "profile_path": "companies/smmt.json",
       "suggested_questions": [
@@ -733,10 +846,12 @@
         "SMMT 有哪些重要產品或管線？",
         "SMMT 最近有什麼事件？"
       ],
-      "ticker": "SMMT"
+      "symbol": "SMMT",
+      "ticker": "NASDAQ:SMMT"
     },
     {
       "aliases": [
+        "NASDAQ:BMRN",
         "BMRN",
         "BioMarin Pharmaceutical Inc.",
         "BioMarin",
@@ -745,6 +860,7 @@
       "business_focus": "研發與銷售嚴重罕見疾病療法，涵蓋溶小體儲積症、骨骼發育與代謝疾病。",
       "company_id": "sec-0001048477",
       "company_name": "BioMarin Pharmaceutical Inc.",
+      "exchange": "NASDAQ",
       "market_cap_rank": 39,
       "profile_path": "companies/bmrn.json",
       "suggested_questions": [
@@ -752,10 +868,12 @@
         "BMRN 有哪些重要產品或管線？",
         "BMRN 最近有什麼事件？"
       ],
-      "ticker": "BMRN"
+      "symbol": "BMRN",
+      "ticker": "NASDAQ:BMRN"
     },
     {
       "aliases": [
+        "NASDAQ:MDGL",
         "MDGL",
         "Madrigal Pharmaceuticals, Inc.",
         "Madrigal Pharmaceuticals",
@@ -765,6 +883,7 @@
       "business_focus": "專注代謝功能障礙相關脂肪性肝炎 MASH，商業核心是肝臟選擇性甲狀腺素受體藥物。",
       "company_id": "sec-0001157601",
       "company_name": "Madrigal Pharmaceuticals, Inc.",
+      "exchange": "NASDAQ",
       "market_cap_rank": 40,
       "profile_path": "companies/mdgl.json",
       "suggested_questions": [
@@ -772,10 +891,12 @@
         "MDGL 有哪些重要產品或管線？",
         "MDGL 最近有什麼事件？"
       ],
-      "ticker": "MDGL"
+      "symbol": "MDGL",
+      "ticker": "NASDAQ:MDGL"
     },
     {
       "aliases": [
+        "NASDAQ:CORT",
         "CORT",
         "Corcept Therapeutics Incorporated",
         "Corcept Therapeutics",
@@ -785,6 +906,7 @@
       "business_focus": "以皮質醇調節機制開發內分泌、腫瘤、代謝與神經疾病藥物。",
       "company_id": "sec-0001088856",
       "company_name": "Corcept Therapeutics Incorporated",
+      "exchange": "NASDAQ",
       "market_cap_rank": 41,
       "profile_path": "companies/cort.json",
       "suggested_questions": [
@@ -792,10 +914,12 @@
         "CORT 有哪些重要產品或管線？",
         "CORT 最近有什麼事件？"
       ],
-      "ticker": "CORT"
+      "symbol": "CORT",
+      "ticker": "NASDAQ:CORT"
     },
     {
       "aliases": [
+        "NASDAQ:HALO",
         "HALO",
         "Halozyme Therapeutics, Inc.",
         "Halozyme Therapeutics",
@@ -805,6 +929,7 @@
       "business_focus": "以 ENHANZE 皮下注射遞送技術授權為核心，另有自有注射產品與裝置。",
       "company_id": "sec-0001159036",
       "company_name": "Halozyme Therapeutics, Inc.",
+      "exchange": "NASDAQ",
       "market_cap_rank": 42,
       "profile_path": "companies/halo.json",
       "suggested_questions": [
@@ -812,10 +937,12 @@
         "HALO 有哪些重要產品或管線？",
         "HALO 最近有什麼事件？"
       ],
-      "ticker": "HALO"
+      "symbol": "HALO",
+      "ticker": "NASDAQ:HALO"
     },
     {
       "aliases": [
+        "NASDAQ:ARWR",
         "ARWR",
         "Arrowhead Pharmaceuticals, Inc.",
         "Arrowhead Pharmaceuticals",
@@ -825,6 +952,7 @@
       "business_focus": "以 RNA 干擾技術沉默致病基因，管線涵蓋心代謝、肝病、發炎與神經疾病。",
       "company_id": "sec-0000879407",
       "company_name": "Arrowhead Pharmaceuticals, Inc.",
+      "exchange": "NASDAQ",
       "market_cap_rank": 43,
       "profile_path": "companies/arwr.json",
       "suggested_questions": [
@@ -832,10 +960,12 @@
         "ARWR 有哪些重要產品或管線？",
         "ARWR 最近有什麼事件？"
       ],
-      "ticker": "ARWR"
+      "symbol": "ARWR",
+      "ticker": "NASDAQ:ARWR"
     },
     {
       "aliases": [
+        "NYSE:ELAN",
         "ELAN",
         "Elanco Animal Health Incorporated",
         "Elanco",
@@ -844,6 +974,7 @@
       "business_focus": "動物保健公司，向寵物與畜牧市場提供驅蟲藥、疫苗、疼痛與感染治療產品。",
       "company_id": "sec-0001739104",
       "company_name": "Elanco Animal Health Incorporated",
+      "exchange": "NYSE",
       "market_cap_rank": 44,
       "profile_path": "companies/elan.json",
       "suggested_questions": [
@@ -851,10 +982,12 @@
         "ELAN 有哪些重要產品或管線？",
         "ELAN 最近有什麼事件？"
       ],
-      "ticker": "ELAN"
+      "symbol": "ELAN",
+      "ticker": "NYSE:ELAN"
     },
     {
       "aliases": [
+        "NASDAQ:TECH",
         "TECH",
         "Bio-Techne Corporation",
         "Bio-Techne",
@@ -864,6 +997,7 @@
       "business_focus": "生命科學工具與診斷供應商，銷售研究試劑、蛋白分析儀器、空間生物學與診斷產品；不是傳統藥物開發商。",
       "company_id": "sec-0000842023",
       "company_name": "Bio-Techne Corporation",
+      "exchange": "NASDAQ",
       "market_cap_rank": 45,
       "profile_path": "companies/tech.json",
       "suggested_questions": [
@@ -871,10 +1005,12 @@
         "TECH 有哪些重要產品或管線？",
         "TECH 最近有什麼事件？"
       ],
-      "ticker": "TECH"
+      "symbol": "TECH",
+      "ticker": "NASDAQ:TECH"
     },
     {
       "aliases": [
+        "NASDAQ:AXSM",
         "AXSM",
         "Axsome Therapeutics, Inc.",
         "Axsome Therapeutics",
@@ -884,6 +1020,7 @@
       "business_focus": "專注中樞神經疾病，商業產品涵蓋重度憂鬱、嗜睡與偏頭痛。",
       "company_id": "sec-0001579428",
       "company_name": "Axsome Therapeutics, Inc.",
+      "exchange": "NASDAQ",
       "market_cap_rank": 46,
       "profile_path": "companies/axsm.json",
       "suggested_questions": [
@@ -891,10 +1028,12 @@
         "AXSM 有哪些重要產品或管線？",
         "AXSM 最近有什麼事件？"
       ],
-      "ticker": "AXSM"
+      "symbol": "AXSM",
+      "ticker": "NASDAQ:AXSM"
     },
     {
       "aliases": [
+        "NASDAQ:CYTK",
         "CYTK",
         "Cytokinetics, Incorporated",
         "Cytokinetics",
@@ -903,6 +1042,7 @@
       "business_focus": "專注肌肉生物學，以心肌肌球蛋白調節劑開發肥厚性心肌病與心衰竭療法。",
       "company_id": "sec-0001061983",
       "company_name": "Cytokinetics, Incorporated",
+      "exchange": "NASDAQ",
       "market_cap_rank": 47,
       "profile_path": "companies/cytk.json",
       "suggested_questions": [
@@ -910,10 +1050,12 @@
         "CYTK 有哪些重要產品或管線？",
         "CYTK 最近有什麼事件？"
       ],
-      "ticker": "CYTK"
+      "symbol": "CYTK",
+      "ticker": "NASDAQ:CYTK"
     },
     {
       "aliases": [
+        "NASDAQ:KRYS",
         "KRYS",
         "Krystal Biotech, Inc.",
         "Krystal Biotech",
@@ -923,6 +1065,7 @@
       "business_focus": "以基因治療平台開發罕見皮膚、眼科與肺部疾病療法。",
       "company_id": "sec-0001711279",
       "company_name": "Krystal Biotech, Inc.",
+      "exchange": "NASDAQ",
       "market_cap_rank": 48,
       "profile_path": "companies/krys.json",
       "suggested_questions": [
@@ -930,10 +1073,12 @@
         "KRYS 有哪些重要產品或管線？",
         "KRYS 最近有什麼事件？"
       ],
-      "ticker": "KRYS"
+      "symbol": "KRYS",
+      "ticker": "NASDAQ:KRYS"
     },
     {
       "aliases": [
+        "NASDAQ:ABVX",
         "ABVX",
         "ABIVAX Société Anonyme",
         "Abivax",
@@ -942,6 +1087,7 @@
       "business_focus": "臨床階段免疫公司，核心候選藥 obefazimod 聚焦慢性發炎性腸道疾病。",
       "company_id": "sec-0001956827",
       "company_name": "ABIVAX Société Anonyme",
+      "exchange": "NASDAQ",
       "market_cap_rank": 49,
       "profile_path": "companies/abvx.json",
       "suggested_questions": [
@@ -949,10 +1095,12 @@
         "ABVX 有哪些重要產品或管線？",
         "ABVX 最近有什麼事件？"
       ],
-      "ticker": "ABVX"
+      "symbol": "ABVX",
+      "ticker": "NASDAQ:ABVX"
     },
     {
       "aliases": [
+        "NYSE:RDY",
         "RDY",
         "Dr. Reddy's Laboratories Limited",
         "Dr. Reddy's",
@@ -962,6 +1110,7 @@
       "business_focus": "綜合製藥公司，主力為全球學名藥與原料藥，另有生物製劑及腫瘤、發炎等差異化管線。",
       "company_id": "sec-0001135951",
       "company_name": "Dr. Reddy's Laboratories Limited",
+      "exchange": "NYSE",
       "market_cap_rank": 50,
       "profile_path": "companies/rdy.json",
       "suggested_questions": [
@@ -969,10 +1118,11 @@
         "RDY 有哪些重要產品或管線？",
         "RDY 最近有什麼事件？"
       ],
-      "ticker": "RDY"
+      "symbol": "RDY",
+      "ticker": "NYSE:RDY"
     }
   ],
   "company_count": 50,
   "profile_as_of": "2026-09-10",
-  "schema_version": "1.0.0"
+  "schema_version": "2.0.0"
 }

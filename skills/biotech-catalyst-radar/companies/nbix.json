@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "NASDAQ:NBIX",
     "NBIX",
     "Neurocrine Biosciences, Inc.",
     "Neurocrine Biosciences",
@@ -12,6 +13,7 @@
   "company_name": "Neurocrine Biosciences, Inc.",
   "company_url": "https://www.neurocrine.com",
   "context_notes": [],
+  "exchange": "NASDAQ",
   "focus_areas": [
     "運動障礙",
     "精神疾病",
@@ -43,7 +45,7 @@
     }
   ],
   "profile_as_of": "2026-09-10",
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
@@ -56,7 +58,8 @@
     "NBIX 有哪些重要產品或管線？",
     "NBIX 最近有什麼事件？"
   ],
-  "ticker": "NBIX",
+  "symbol": "NBIX",
+  "ticker": "NASDAQ:NBIX",
   "uncertainties": [
     "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
   ]
