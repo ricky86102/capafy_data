@@ -12,7 +12,14 @@
   "company_name": "Alnylam Pharmaceuticals, Inc.",
   "company_url": "https://www.alnylam.com",
   "context_notes": [],
+  "country": "United States",
   "exchange": "NASDAQ",
+  "factual_review": {
+    "evidence_urls": [],
+    "reviewed_on": null,
+    "reviewer_role": null,
+    "status": "pending"
+  },
   "focus_areas": [
     "RNAi",
     "澱粉樣變性",
@@ -20,7 +27,10 @@
     "代謝疾病",
     "罕見疾病"
   ],
+  "industry": "Biotechnology",
   "market_cap_rank": 24,
+  "market_cap_usd": 34803751592,
+  "market_data_as_of": "2026-09-08",
   "notable_products": [
     {
       "indications": [
@@ -44,12 +54,12 @@
       "status": "pipeline"
     }
   ],
-  "profile_as_of": "2026-09-10",
+  "profile_as_of": "2026-09-09",
   "schema_version": "2.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-10",
+      "retrieved_on": "2026-09-09",
       "url": "https://stockanalysis.com/stocks/alny/company/"
     }
   ],
@@ -61,6 +71,7 @@
   "symbol": "ALNY",
   "ticker": "NASDAQ:ALNY",
   "uncertainties": [
-    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。",
+    "目前公司資料整理尚未通過第一手來源事實核對；格式驗證不代表事實正確。"
   ]
 }

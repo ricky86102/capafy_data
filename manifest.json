@@ -2,14 +2,17 @@
   "schema_version": "1.0.0",
   "skills": {
     "biotech-catalyst-radar": {
-      "as_of": "2026-09-10",
+      "as_of": "2026-09-11",
       "company_count": 50,
       "company_index": "skills/biotech-catalyst-radar/companies/index.json",
       "display_name": "Biotech Catalyst Radar",
+      "frontend_entry": "skills/biotech-catalyst-radar/status-v3.json",
       "latest": "skills/biotech-catalyst-radar/latest.json",
+      "legacy_snapshot": "skills/biotech-catalyst-radar/latest.json",
+      "retrieval_policy": "route_specific_only",
       "schema_version": "2.0.0",
-      "status": "skills/biotech-catalyst-radar/status.json",
-      "updated_at": "2026-09-10T08:45:07.044901Z"
+      "status": "skills/biotech-catalyst-radar/status-v3.json",
+      "updated_at": "2026-09-11T10:50:05.918978Z"
     }
   }
 }

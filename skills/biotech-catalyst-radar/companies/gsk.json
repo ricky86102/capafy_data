@@ -12,7 +12,14 @@
   "company_name": "GSK plc",
   "company_url": "https://www.gsk.com",
   "context_notes": [],
+  "country": "United Kingdom",
   "exchange": "NYSE",
+  "factual_review": {
+    "evidence_urls": [],
+    "reviewed_on": null,
+    "reviewer_role": null,
+    "status": "pending"
+  },
   "focus_areas": [
     "疫苗",
     "呼吸疾病",
@@ -20,7 +27,10 @@
     "感染症",
     "腫瘤"
   ],
+  "industry": "Drug Manufacturers - General",
   "market_cap_rank": 14,
+  "market_cap_usd": 98182130940,
+  "market_data_as_of": "2026-09-08",
   "notable_products": [
     {
       "indications": [
@@ -50,12 +60,12 @@
       "status": "portfolio"
     }
   ],
-  "profile_as_of": "2026-09-10",
+  "profile_as_of": "2026-09-09",
   "schema_version": "2.0.0",
   "sources": [
     {
       "publisher": "StockAnalysis",
-      "retrieved_on": "2026-09-10",
+      "retrieved_on": "2026-09-09",
       "url": "https://stockanalysis.com/stocks/gsk/company/"
     }
   ],
@@ -67,6 +77,7 @@
   "symbol": "GSK",
   "ticker": "NYSE:GSK",
   "uncertainties": [
-    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。"
+    "來源未提供產品收入或管線優先級排序；此處僅列代表性項目。",
+    "目前公司資料整理尚未通過第一手來源事實核對；格式驗證不代表事實正確。"
   ]
 }
