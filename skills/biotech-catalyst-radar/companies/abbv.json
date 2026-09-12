@@ -61,6 +61,11 @@
       "publisher": "StockAnalysis",
       "retrieved_on": "2026-09-09",
       "url": "https://stockanalysis.com/stocks/abbv/company/"
+    },
+    {
+      "publisher": "ABBV official primary source",
+      "retrieved_on": "2026-09-09",
+      "url": "https://www.rxabbvie.com/pdf/skyrizi_pi.pdf"
     }
   ],
   "suggested_questions": [

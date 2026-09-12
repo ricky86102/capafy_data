@@ -60,6 +60,11 @@
       "publisher": "StockAnalysis",
       "retrieved_on": "2026-09-09",
       "url": "https://stockanalysis.com/stocks/exel/company/"
+    },
+    {
+      "publisher": "EXEL official primary source",
+      "retrieved_on": "2026-09-09",
+      "url": "https://ir.exelixis.com/node/23471"
     }
   ],
   "suggested_questions": [

@@ -6,7 +6,7 @@
     "Revolution Medicines",
     "瑞沃醫藥"
   ],
-  "business_focus": "臨床階段精準腫瘤公司，專攻 RAS 驅動癌症與 RAS(ON) 抑制劑。",
+  "business_focus": "以 RAS 驅動癌症為核心的精準腫瘤公司；daraxonrasib 已於美國獲准用於特定轉移性胰臟癌患者，並持續開發其他 RAS(ON) 管線。",
   "cik": "0001628171",
   "company_id": "sec-0001628171",
   "company_name": "Revolution Medicines, Inc.",
@@ -33,10 +33,10 @@
   "notable_products": [
     {
       "indications": [
-        "RAS 驅動實體瘤"
+        "特定成人轉移性胰臟腺癌（美國核准）；其他 RAS 驅動實體瘤用途仍在研究"
       ],
       "name": "Daraxonrasib (RMC-6236)",
-      "status": "pipeline"
+      "status": "marketed"
     },
     {
       "indications": [
@@ -60,6 +60,11 @@
       "publisher": "StockAnalysis",
       "retrieved_on": "2026-09-09",
       "url": "https://stockanalysis.com/stocks/rvmd/company/"
+    },
+    {
+      "publisher": "RVMD official primary source",
+      "retrieved_on": "2026-09-09",
+      "url": "https://medicalaffairs.revmed.com/"
     }
   ],
   "suggested_questions": [

@@ -35,7 +35,7 @@
       "indications": [
         "COVID-19"
       ],
-      "name": "BNT162",
+      "name": "Comirnaty (BNT162b2)",
       "status": "marketed"
     },
     {
@@ -60,6 +60,11 @@
       "publisher": "StockAnalysis",
       "retrieved_on": "2026-09-09",
       "url": "https://stockanalysis.com/stocks/bntx/company/"
+    },
+    {
+      "publisher": "BNTX official primary source",
+      "retrieved_on": "2026-09-09",
+      "url": "https://investors.biontech.de/news-releases/news-release-details/pfizer-and-biontech-receive-us-fda-approval-xfg-adapted-covid-19"
     }
   ],
   "suggested_questions": [

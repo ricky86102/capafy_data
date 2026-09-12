@@ -66,6 +66,11 @@
       "url": "https://stockanalysis.com/stocks/pfe/company/"
     },
     {
+      "publisher": "PFE official primary source",
+      "retrieved_on": "2026-09-09",
+      "url": "https://labeling.pfizer.com/ShowLabeling.aspx?id=17470"
+    },
+    {
       "publisher": "Pfizer",
       "retrieved_on": "2026-09-09",
       "url": "https://labeling.pfizer.com/ShowLabeling.aspx?id=652"

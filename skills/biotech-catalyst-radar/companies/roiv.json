@@ -6,7 +6,7 @@
     "Roivant",
     "瑞萬特"
   ],
-  "business_focus": "臨床階段生物製藥平台，聚焦自體免疫與心肺疾病，並透過多個子公司推進候選藥物。",
+  "business_focus": "生物製藥公司，透過多個子公司推進自體免疫與心肺疾病療法；已有核准產品，亦保有臨床研發管線。",
   "cik": "0001635088",
   "company_id": "sec-0001635088",
   "company_name": "Roivant Sciences Ltd.",
@@ -60,6 +60,11 @@
       "publisher": "StockAnalysis",
       "retrieved_on": "2026-09-09",
       "url": "https://stockanalysis.com/stocks/roiv/company/"
+    },
+    {
+      "publisher": "ROIV official primary source",
+      "retrieved_on": "2026-09-09",
+      "url": "https://investor.roivant.com/news-releases/news-release-details/roivant-announces-positive-results-phocus-study-mosliciguat"
     }
   ],
   "suggested_questions": [

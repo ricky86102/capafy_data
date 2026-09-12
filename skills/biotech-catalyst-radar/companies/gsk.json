@@ -67,6 +67,11 @@
       "publisher": "StockAnalysis",
       "retrieved_on": "2026-09-09",
       "url": "https://stockanalysis.com/stocks/gsk/company/"
+    },
+    {
+      "publisher": "GSK official primary source",
+      "retrieved_on": "2026-09-09",
+      "url": "https://us.gsk.com/en-us/products/"
     }
   ],
   "suggested_questions": [

@@ -61,6 +61,11 @@
       "publisher": "StockAnalysis",
       "retrieved_on": "2026-09-09",
       "url": "https://stockanalysis.com/stocks/amgn/company/"
+    },
+    {
+      "publisher": "AMGN official primary source",
+      "retrieved_on": "2026-09-09",
+      "url": "https://www.pi.amgen.com/-/media/Project/Amgen/Repository/pi-amgen-com/prolia/prolia_pi.ashx"
     }
   ],
   "suggested_questions": [

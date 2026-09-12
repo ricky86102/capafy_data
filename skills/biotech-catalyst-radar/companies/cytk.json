@@ -34,15 +34,8 @@
       "indications": [
         "症狀性阻塞型肥厚性心肌病"
       ],
-      "name": "Myqorzo",
+      "name": "Myqorzo (aficamten)",
       "status": "marketed"
-    },
-    {
-      "indications": [
-        "肥厚性心肌病"
-      ],
-      "name": "Aficamten",
-      "status": "pipeline"
     },
     {
       "indications": [
@@ -59,6 +52,11 @@
       "publisher": "StockAnalysis",
       "retrieved_on": "2026-09-09",
       "url": "https://stockanalysis.com/stocks/cytk/company/"
+    },
+    {
+      "publisher": "CYTK official primary source",
+      "retrieved_on": "2026-09-09",
+      "url": "https://ir.cytokinetics.com/press-releases/press-release-details/2026/Cytokinetics-Announces-European-Commission-Approval-of-MYQORZO-aficamten-for-the-Treatment-of-Adults-with-Symptomatic-Obstructive-Hypertrophic-Cardiomyopathy/default.aspx"
     }
   ],
   "suggested_questions": [

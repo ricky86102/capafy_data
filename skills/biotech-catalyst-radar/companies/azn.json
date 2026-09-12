@@ -61,6 +61,11 @@
       "publisher": "StockAnalysis",
       "retrieved_on": "2026-09-09",
       "url": "https://stockanalysis.com/stocks/azn/company/"
+    },
+    {
+      "publisher": "AZN official primary source",
+      "retrieved_on": "2026-09-09",
+      "url": "https://www.astrazeneca.com/media-centre/press-releases/2024/tagrisso-us-approval-in-unresectable-lung-cancer.html"
     }
   ],
   "suggested_questions": [

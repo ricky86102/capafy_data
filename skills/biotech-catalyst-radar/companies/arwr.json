@@ -35,10 +35,10 @@
   "notable_products": [
     {
       "indications": [
-        "降低 ApoC-III 與相關脂質疾病"
+        "成人家族性乳糜微粒血症（FCS）的三酸甘油酯降低；搭配飲食控制"
       ],
-      "name": "Plozasiran",
-      "status": "pipeline"
+      "name": "Redemplo (plozasiran)",
+      "status": "marketed"
     },
     {
       "indications": [
@@ -62,6 +62,11 @@
       "publisher": "StockAnalysis",
       "retrieved_on": "2026-09-09",
       "url": "https://stockanalysis.com/stocks/arwr/company/"
+    },
+    {
+      "publisher": "ARWR official primary source",
+      "retrieved_on": "2026-09-09",
+      "url": "https://arrowheadpharma.com/en-us/newsroom/arrowhead-pharmaceuticals-announces-fda-approval-redemplor"
     }
   ],
   "suggested_questions": [

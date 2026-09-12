@@ -40,10 +40,10 @@
     },
     {
       "indications": [
-        "支氣管擴張症"
+        "非囊性纖維化支氣管擴張症（12 歲以上；美國核准）"
       ],
-      "name": "Brensocatib",
-      "status": "pipeline"
+      "name": "Brinsupri (brensocatib)",
+      "status": "marketed"
     },
     {
       "indications": [
@@ -60,6 +60,11 @@
       "publisher": "StockAnalysis",
       "retrieved_on": "2026-09-09",
       "url": "https://stockanalysis.com/stocks/insm/company/"
+    },
+    {
+      "publisher": "INSM official primary source",
+      "retrieved_on": "2026-09-09",
+      "url": "https://annualreport.insmed.com/"
     }
   ],
   "suggested_questions": [

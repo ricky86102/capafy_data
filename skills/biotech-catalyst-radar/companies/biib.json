@@ -60,6 +60,11 @@
       "publisher": "StockAnalysis",
       "retrieved_on": "2026-09-09",
       "url": "https://stockanalysis.com/stocks/biib/company/"
+    },
+    {
+      "publisher": "BIIB official primary source",
+      "retrieved_on": "2026-09-09",
+      "url": "https://investors.biogen.com/news-releases/news-release-details/fda-approves-new-high-dose-regimen-spinrazar-nusinersen-spinal"
     }
   ],
   "suggested_questions": [

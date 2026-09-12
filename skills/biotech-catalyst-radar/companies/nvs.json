@@ -61,6 +61,11 @@
       "publisher": "StockAnalysis",
       "retrieved_on": "2026-09-09",
       "url": "https://stockanalysis.com/stocks/nvs/company/"
+    },
+    {
+      "publisher": "NVS official primary source",
+      "retrieved_on": "2026-09-09",
+      "url": "https://www.novartis.com/us-en/sites/novartis_us/files/entresto.pdf"
     }
   ],
   "suggested_questions": [

@@ -11,7 +11,9 @@
   "company_id": "sec-0001697862",
   "company_name": "argenx SE",
   "company_url": "https://argenx.com",
-  "context_notes": [],
+  "context_notes": [
+    "本次核對來源確認 VYVGART 的免疫性血小板低下適應症獲准於日本；不得據此推定美國或其他地區也有相同核准。"
+  ],
   "country": "Netherlands",
   "exchange": "NASDAQ",
   "factual_review": {
@@ -59,6 +61,11 @@
       "publisher": "StockAnalysis",
       "retrieved_on": "2026-09-09",
       "url": "https://stockanalysis.com/stocks/argx/company/"
+    },
+    {
+      "publisher": "ARGX official primary source",
+      "retrieved_on": "2026-09-09",
+      "url": "https://argenx.com/content/dam/argenx-corp/media-documents/argenx_press_release_VYVGART_Global_Japan_ITP_20240326.pdf"
     }
   ],
   "suggested_questions": [

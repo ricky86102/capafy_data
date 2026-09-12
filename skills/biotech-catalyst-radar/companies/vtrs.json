@@ -11,7 +11,9 @@
   "company_id": "sec-0001792044",
   "company_name": "Viatris Inc.",
   "company_url": "https://www.viatris.com",
-  "context_notes": [],
+  "context_notes": [
+    "Viagra 的商業權利依市場而異；本次核對僅確認 Viatris 保留部分市場權利，不代表全球權利。"
+  ],
   "country": "United States",
   "exchange": "NASDAQ",
   "factual_review": {
@@ -62,6 +64,11 @@
       "publisher": "StockAnalysis",
       "retrieved_on": "2026-09-09",
       "url": "https://stockanalysis.com/stocks/vtrs/company/"
+    },
+    {
+      "publisher": "VTRS official primary source",
+      "retrieved_on": "2026-09-09",
+      "url": "https://newsroom.viatris.com/2024-07-03-Viatris-Brings-to-Completion-All-Previously-Announced-Divestitures-With-the-Closing-of-its-Over-the-Counter-Business-Divestiture"
     }
   ],
   "suggested_questions": [

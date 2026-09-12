@@ -62,6 +62,11 @@
       "publisher": "StockAnalysis",
       "retrieved_on": "2026-09-09",
       "url": "https://stockanalysis.com/stocks/rdy/company/"
+    },
+    {
+      "publisher": "RDY official primary source",
+      "retrieved_on": "2026-09-09",
+      "url": "https://api.drreddys.com/meet-api-experts"
     }
   ],
   "suggested_questions": [

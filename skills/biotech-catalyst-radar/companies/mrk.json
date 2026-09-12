@@ -63,6 +63,11 @@
       "publisher": "StockAnalysis",
       "retrieved_on": "2026-09-09",
       "url": "https://stockanalysis.com/stocks/mrk/company/"
+    },
+    {
+      "publisher": "MRK official primary source",
+      "retrieved_on": "2026-09-09",
+      "url": "https://www.merck.com/product/usa/pi_circulars/k/keytruda/keytruda_pi.pdf"
     }
   ],
   "suggested_questions": [

@@ -46,6 +46,11 @@
       "publisher": "StockAnalysis",
       "retrieved_on": "2026-09-09",
       "url": "https://stockanalysis.com/stocks/abvx/company/"
+    },
+    {
+      "publisher": "ABVX official primary source",
+      "retrieved_on": "2026-09-09",
+      "url": "https://www.abivax.com/"
     }
   ],
   "suggested_questions": [
