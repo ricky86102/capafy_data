@@ -11,7 +11,7 @@
     "not_checked": 0
   },
   "company_index": "skills/biotech-catalyst-radar/companies/index.json",
-  "event_count": 475,
+  "event_count": 477,
   "frontend_entry": "skills/biotech-catalyst-radar/status-v3.json",
   "latest": "skills/biotech-catalyst-radar/latest.json",
   "mode": "live",
@@ -397,6 +397,7 @@
     "events/companies/abbv/0.json",
     "events/companies/abbv/1.json",
     "events/companies/abbv/2.json",
+    "events/companies/abbv/3.json",
     "events/companies/abvx/0.json",
     "events/companies/alny/0.json",
     "events/companies/amgn/0.json",
@@ -1077,5 +1078,5 @@
   ],
   "schema_version": "2.0.0",
   "slug": "biotech-catalyst-radar",
-  "updated_at": "2026-09-12T01:07:21.457425Z"
+  "updated_at": "2026-09-12T08:57:19.888920Z"
 }
