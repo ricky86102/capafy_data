@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "skills": {
     "biotech-catalyst-radar": {
-      "as_of": "2026-09-12",
+      "as_of": "2026-09-13",
       "company_count": 50,
       "company_index": "skills/biotech-catalyst-radar/companies/index.json",
       "display_name": "Biotech Catalyst Radar",
@@ -12,7 +12,7 @@
       "retrieval_policy": "route_specific_only",
       "schema_version": "2.0.0",
       "status": "skills/biotech-catalyst-radar/status-v3.json",
-      "updated_at": "2026-09-12T14:19:39.332246Z"
+      "updated_at": "2026-09-13T02:45:26.930326Z"
     }
   }
 }
