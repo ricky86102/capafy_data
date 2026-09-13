@@ -11,7 +11,7 @@
     "not_checked": 0
   },
   "company_index": "skills/biotech-catalyst-radar/companies/index.json",
-  "event_count": 478,
+  "event_count": 476,
   "frontend_entry": "skills/biotech-catalyst-radar/status-v3.json",
   "latest": "skills/biotech-catalyst-radar/latest.json",
   "mode": "live",
@@ -1361,5 +1361,5 @@
   ],
   "schema_version": "2.0.0",
   "slug": "biotech-catalyst-radar",
-  "updated_at": "2026-09-13T02:45:26.930326Z"
+  "updated_at": "2026-09-13T02:51:37.066999Z"
 }
